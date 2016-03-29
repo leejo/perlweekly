@@ -3,6 +3,7 @@
       {
          "entries" : [
             {
+               "author" : "olaf_alders",
                "tags" : [
                   "CPAN",
                   "MetaCPAN",
@@ -70,6 +71,7 @@
                "url" : "http://perlmonks.org/?node_id=916547"
             },
             {
+               "author" : "ricardo_signes",
                "tags" : [
                   "OSCON",
                   "Moose",
@@ -82,6 +84,7 @@
                "url" : "http://rjbs.manxome.org/talks/moose/"
             },
             {
+               "author" : "dave_cross",
                "tags" : [
                   "YAPC",
                   "YAPC::EU",
@@ -124,6 +127,7 @@
                "url" : "http://perlmonks.org/?node_id=917522"
             },
             {
+               "author" : "david_golden",
                "tags" : [
                   "binary",
                   "Alien",

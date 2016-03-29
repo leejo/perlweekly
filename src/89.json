@@ -51,6 +51,7 @@
       {
          "entries" : [
             {
+               "author" : "brian_d_foy",
                "link" : "http://bit.ly/11ImaYN",
                "tags" : [],
                "text" : "Curtis 'Ovid' Poe got tripped by the use of AUTOLOAD in the Redis module, but brian d foy think you should not throw out the baby with the bathwater. Is this a question of power vs. learnability of Perl?",
@@ -81,6 +82,7 @@
                "url" : "http://blog.64p.org/entry/2013/04/04/113653"
             },
             {
+               "author" : "sebastian_willing",
                "link" : "http://bit.ly/11Imbfa",
                "tags" : [],
                "text" : "A simple explanation by Sebastian Willing on how to connect to the Sybase ASE database from Perl using the DBI module.",
@@ -128,6 +130,7 @@
       {
          "entries" : [
             {
+               "author" : "john_napiorkowski",
                "link" : "http://bit.ly/11Imbfe",
                "tags" : [],
                "text" : "John Napiorkowski is musing about various ways to isolate and centralize application level logic in the Catalyst web framework of Perl.",
@@ -165,6 +168,7 @@
       {
          "entries" : [
             {
+               "author" : "david_golden",
                "link" : "http://bit.ly/11Imbfm",
                "tags" : [],
                "text" : "Do you sometime try to use modules on the command line. Has it bothered you that you need to type the module name twice? Once for loading and once for calling ->new on the name? This module of David Golden reduces the pain.",

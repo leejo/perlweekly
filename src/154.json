@@ -17,6 +17,7 @@
       {
          "entries" : [
             {
+               "author" : "chad_granum",
                "link" : "http://bit.ly/1qCBNNH",
                "tags" : [],
                "text" : "Changes are coming to the Test::* modules, Chad Granum warns us. As those modules are the foundation of most test suites, it might indeed be a good idea to check what those are.",
@@ -49,6 +50,7 @@
                "url" : "http://blogs.perl.org/users/scott_walters2/2014/07/a-perl-cms-for-the-masses-part-ii.html"
             },
             {
+               "author" : "barbie",
                "link" : "http://bit.ly/1qCBQt2",
                "tags" : [],
                "text" : "Barbie announces the launch of a new administrative view of the CPAN Tester data for both testers and module authors.",
@@ -72,6 +74,7 @@
                "url" : "http://blogs.perl.org/users/mikko_koivunalho/2014/07/distzilla-as-a-continuous-delivery-tool.html"
             },
             {
+               "author" : "toby_inkster",
                "link" : "http://bit.ly/1qCBQt8",
                "tags" : [],
                "text" : "Toby Inkster reviews what the Moose world was up to in June.",
@@ -80,6 +83,7 @@
                "url" : "http://blogs.perl.org/users/toby_inkster/2014/07/planet-moose---june-2014.html"
             },
             {
+               "author" : "damian_conway",
                "link" : "http://bit.ly/1qCBQJn",
                "tags" : [],
                "text" : "Damian Conway is interviewed by Linux Voice.  'Nuff said.",
@@ -112,6 +116,7 @@
                "url" : "http://perltricks.com/article/98/2014/6/30/Managing-files-is-a-breeze-with-this-DBIx--Class-plugin"
             },
             {
+               "author" : "brian_d_foy",
                "link" : "http://bit.ly/1qCBQJB",
                "tags" : [],
                "text" : "... and brian d foy shows examples.",
@@ -143,6 +148,7 @@
       {
          "entries" : [
             {
+               "author" : "ricardo_signes",
                "link" : "http://bit.ly/1qCBO4u",
                "tags" : [],
                "text" : "Ricardo Signes went to YAPC::NA, and in this first installment of his impressions of the event, he lauds the way the conference presentations where  uploaded to YouTube (to wit: all talks -- yes, all of them -- where streamed in pretty darn close to real-time, which is awesome).",
@@ -166,6 +172,7 @@
       {
          "entries" : [
             {
+               "author" : "olaf_alders",
                "link" : "http://bit.ly/Vz84tW",
                "tags" : [],
                "text" : "So you are using Dist::Zilla to manage your module and you want to run a single test out of its test suite? No problem at all, you can just run it directly. But if the module also has XS components, it's a little trickier. Fortunately,  Olaf Alders found how to do it in a fairly simple way.",
@@ -182,6 +189,7 @@
                "url" : "http://blog.cpantesters.org/diary/185"
             },
             {
+               "author" : "barbie",
                "link" : "http://bit.ly/1qCBR0a",
                "tags" : [],
                "text" : "Statistics. Everybody love statistics. Here, Barbie compiled all the first versions of CPAN modules. Unsurprisingly, most modules begin their life with a variation on 1.0 / 0.1 / 0.001. But which one is the most popular? Take a guess, and go find out.",
@@ -190,6 +198,7 @@
                "url" : "http://blog.cpantesters.org/diary/186"
             },
             {
+               "author" : "barbie",
                "link" : "http://bit.ly/1qCBR0b",
                "tags" : [],
                "text" : "Barbie is tinkering with the cpantester infrastructure. More particularly, he's fine-tuning the reported emails for testers to be more  flexible and accurate. Not a massive change, but undubiously a very useful one.",
@@ -221,6 +230,7 @@
       {
          "entries" : [
             {
+               "author" : "andrew_solomon",
                "link" : "http://bit.ly/1qCBRgt",
                "tags" : [],
                "text" : "The 3rd interview by Andrew Solomon",
@@ -234,6 +244,7 @@
       {
          "entries" : [
             {
+               "author" : "caleb_cushing",
                "link" : "http://bit.ly/1qCBRgu",
                "tags" : [],
                "text" : "When legacy parts of your code are marked for an upcoming demise, there are several ways to make them issue deprecation notices. Caleb Cushing shows one way to do it using warnings's 'warnif' and (optionally) Moose's method modifiers.",
@@ -296,6 +307,7 @@
       {
          "entries" : [
             {
+               "author" : "dave_cross",
                "link" : "http://bit.ly/1qCBRx4",
                "tags" : [],
                "text" : "A few years ago, Dave Cross ran Perl training at the Google campus. He realized recently that he never shared publically the slide decks he had crafted for them. This terrible oversight is now rectified. Slides of his 'Database Programming with Perl and DBIx::Class' and 'Object-Oriented Programming with Perl and Moose' courses are now available to the general public.",
@@ -311,6 +323,7 @@
       {
          "entries" : [
             {
+               "author" : "larry_wall",
                "link" : "http://bit.ly/1qCBORN",
                "tags" : [],
                "text" : "The keynote Larry Wall gave at YAPC::NA going over the RFCs that were the starting point of Perl 6. (50 min)",
@@ -380,6 +393,7 @@
                "url" : "http://blog.cpantesters.org/diary/184"
             },
             {
+               "author" : "david_farrell",
                "link" : "http://bit.ly/1qCBRNA",
                "tags" : [],
                "text" : "A list of modules recently uploaded to CPAN by David Farrell.",
@@ -466,6 +480,7 @@
       {
          "entries" : [
             {
+               "author" : "doyle_young",
                "link" : "http://bit.ly/1qCBS3X",
                "tags" : [],
                "text" : "This was the first YAPC of Doyle Young. See how he got his boss to pay for his participation!",

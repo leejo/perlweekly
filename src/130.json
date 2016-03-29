@@ -36,6 +36,7 @@
                "url" : "http://www.wumpus-cave.net/2014/01/13/announcing-uavpilotwumpusroverserver-v0-1/"
             },
             {
+               "author" : "neil_bowers",
                "link" : "http://bit.ly/1aD0IX1",
                "tags" : [],
                "text" : "After 15 years, Neil Bowers has just released a new version of HTML::Summary.",
@@ -62,6 +63,7 @@
       {
          "entries" : [
             {
+               "author" : "buddy_burden",
                "link" : "http://bit.ly/1aD0LlC",
                "tags" : [],
                "text" : "Recently I was reading the Learning Python book and found a page titled 'Python Is Engineering, Not Art'. In the disguise of trying to explain the difference between Perl and Python it just bashes Perl. I sent it to bare-feet Buddy Burden, and he included an extensive post about this in his series about his journey in the world of Perl.",
@@ -120,6 +122,7 @@
       {
          "entries" : [
             {
+               "author" : "neil_bowers",
                "link" : "http://bit.ly/1aD0LlQ",
                "tags" : [],
                "text" : "A little bash script from Neil Bowers that can be replaced by just typing perldoc -m Module::Name",
@@ -157,6 +160,7 @@
       {
          "entries" : [
             {
+               "author" : "dave_cross",
                "link" : "http://bit.ly/1aD0LCm",
                "tags" : [],
                "text" : "A fun article by Dave Cross explaining the various operators in Perl that are created by putting dots together. Before you click. How many can you count?",
@@ -170,6 +174,7 @@
       {
          "entries" : [
             {
+               "author" : "dave_mitchell",
                "link" : "http://bit.ly/1aD0LSH",
                "tags" : [],
                "text" : "This is the, now irregular, report of Dave Mitchell.",

@@ -17,6 +17,7 @@
       {
          "entries" : [
             {
+               "author" : "andrew_solomon",
                "link" : "http://bit.ly/Vz84dz",
                "tags" : [],
                "text" : "Andrew Solomon keeps interviewing his students at Geekuni.",
@@ -62,6 +63,7 @@
       {
          "entries" : [
             {
+               "author" : "olaf_alders",
                "link" : "http://bit.ly/Vz84tW",
                "tags" : [],
                "text" : "Olaf Alders shares a one-liner he saw on #dzil.",
@@ -101,6 +103,7 @@
       {
          "entries" : [
             {
+               "author" : "neil_bowers",
                "link" : "http://bit.ly/Vz84tY",
                "tags" : [],
                "text" : "Neil Bowers had this crazy idea of releasing a CPAN module every day. I am really happy that this mostly involved releasing fixes for existing modules. Apparently he now needs help getting his hand on more modules. So if you are a CPAN author who wants to get rid of a module, this might be a good time to contact Neil!",
@@ -127,6 +130,7 @@
       {
          "entries" : [
             {
+               "author" : "makoto_nozaki",
                "link" : "http://bit.ly/Vz865a",
                "tags" : [],
                "text" : "A few notes of Makoto Nozaki, the head of the Grants Committee",
@@ -156,6 +160,7 @@
       {
          "entries" : [
             {
+               "author" : "dave_rolsky",
                "link" : "http://bit.ly/Vz84u7",
                "map" : {
                   "http://perltv.org/v/a-date-with-perl-yapc-na-2014" : "http://bit.ly/Vz84u5"
@@ -196,6 +201,7 @@
                "url" : "http://perltv.org/v/perl-platform-as-a-service-shootout"
             },
             {
+               "author" : "dan_wright",
                "link" : "http://bit.ly/Vz84Ku",
                "tags" : [],
                "text" : "11 min with Dan Wright, the treasurer of The Perl Foundation.",
@@ -209,6 +215,7 @@
       {
          "entries" : [
             {
+               "author" : "jonathan_worthington",
                "link" : "http://bit.ly/Vz84KB",
                "map" : {
                   "http://perltv.org/people/jonathan-worthington" : "http://bit.ly/Vz86lB"
@@ -262,6 +269,7 @@
                "url" : "http://blogs.perl.org/users/racke/2014/06/perldancer-conference-2014.html"
             },
             {
+               "author" : "buddy_burden",
                "link" : "http://bit.ly/Vz86lN",
                "tags" : [],
                "text" : "Buddy Burden nicely tells his story attending YAPC::NA 2014. If you could not attend, but would like to get the feeling a bit, this might be a good starting point.",

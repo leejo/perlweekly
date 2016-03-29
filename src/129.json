@@ -36,6 +36,7 @@
                "url" : "http://www.nntp.perl.org/group/perl.perl5.porters/2014/01/msg211224.html"
             },
             {
+               "author" : "kmx",
                "link" : "http://bit.ly/1cZTAn6",
                "map" : {
                   "http://strawberryperl.com/" : "http://bit.ly/1cZTBrn"
@@ -62,6 +63,7 @@
       {
          "entries" : [
             {
+               "author" : "buddy_burden",
                "link" : "http://bit.ly/1cZTBrp",
                "tags" : [],
                "text" : "Just like English, Perl borrows liberally from other languages, is full of what seems to be redundancy, and have quite its fair share of quirks.  Coincidence? No, not really. Buddy Burden dives deep into Perl's linguistic heritage.",
@@ -78,6 +80,7 @@
                "url" : "http://blogs.perl.org/users/nate_glenn/2014/01/list-assignment-in-scalar-context.html"
             },
             {
+               "author" : "joel_berger",
                "link" : "http://bit.ly/1cZTAnc",
                "tags" : [],
                "text" : ".. by Joel Berger",
@@ -131,6 +134,7 @@
       {
          "entries" : [
             {
+               "author" : "david_farrell",
                "link" : "http://bit.ly/1cZTAnk",
                "tags" : [],
                "text" : "So you have this Perl program that you want to use as a stand-alone application. No libraries to install, just a vanilla perl on the target machine, your file, and that's it. David Farrell shows you how that's possible to do using App::FatPacker.",
@@ -139,6 +143,7 @@
                "url" : "http://perltricks.com/article/58/2014/1/5/The-easy-way-to-build-stand-alone-Perl-apps"
             },
             {
+               "author" : "reini_urban",
                "link" : "http://bit.ly/1cZTAnl",
                "tags" : [],
                "text" : "Reini Urban discusses the deep, gory parts of the B::C perl compiler in conjuncture with the new 'rperl' project.",
@@ -147,6 +152,7 @@
                "url" : "http://blogs.perl.org/users/rurban/2014/01/bcc-and-rperl.html"
             },
             {
+               "author" : "ricardo_signes",
                "link" : "http://bit.ly/1cZTBHH",
                "tags" : [],
                "text" : "Sharing is caring (about your memory footprint and the ones of your forked children). Ricardo Signes cares, and here shares his tricks to ensure the maximal amount of memory is shared between a daemon and its children.",
@@ -155,6 +161,7 @@
                "url" : "http://rjbs.manxome.org/rubric/entry/2031"
             },
             {
+               "author" : "david_farrell",
                "link" : "http://bit.ly/1cZTAno",
                "tags" : [],
                "text" : "DateTime isn't the only kid on the block when it comes to temporal needs. There is also the friendlier Time::Piece which, David Farrell argues, might fit most of your needs.",
@@ -171,6 +178,7 @@
                "url" : "http://blog.plover.com/prog/perl/DateTime-Moonpig.html"
             },
             {
+               "author" : "jeffrey_thalhammer",
                "link" : "http://bit.ly/1cZTBHL",
                "tags" : [],
                "text" : "If there's a thing the Perl ecosystem is good for, it's to reroute around the damage. Here, Jeffrey Thalhammer shows us how to tweak Pinto to use cpan.stratopan.com instead of cpan.perl.org if the latter ever goes down again.",

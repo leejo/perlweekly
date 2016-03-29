@@ -61,6 +61,7 @@
       {
          "entries" : [
             {
+               "author" : "neil_bowers",
                "link" : "http://bit.ly/QmOvvB",
                "tags" : [],
                "text" : "Neil Bowers brought up an idea, that, if I understand it correctly, basically would be a way to allow you to finance the development of features or the fixing of bugs in CPAN modules or other open source Perl projects. I think this is a very good initiative. What do you think? Will you use it?",
@@ -90,6 +91,7 @@
       {
          "entries" : [
             {
+               "author" : "sinan_unur",
                "link" : "http://bit.ly/UzgM3p",
                "tags" : [],
                "text" : "Sinan Unur is trying to figure out how the US Department of Labor is revising the new unemployment claims every week. The task is especially interesting as the format of the web page displaying the data is slightly different on some weeks. As if humans were involved.",
@@ -137,6 +139,7 @@
       {
          "entries" : [
             {
+               "author" : "daisuke_maki",
                "link" : "http://bit.ly/OuTGyg",
                "tags" : [],
                "text" : "Daisuke Maki (lestrrat) provides us with daily coverage from the biggest Perl conference on Earth. This is day -1, but if you check his later posts, you'll find the reports from during the conference itself.",

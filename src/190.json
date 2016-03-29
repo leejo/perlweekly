@@ -143,7 +143,7 @@
                "url" : "http://perltricks.com/article/160/2015/3/13/Quickly-Debug-your-Perl-code-at-the-command-line"
             },
             {
-               "author" : "",
+               "author" : "nick_wellnhofer",
                "link" : "",
                "tags" : [],
                "text" : "XS coders, gather 'round, for Nick Wellnhofer is about to reveal the secrets of the INTERFACE keyword.",

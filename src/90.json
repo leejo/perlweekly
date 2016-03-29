@@ -34,6 +34,7 @@
                "url" : "http://blog.bestpractical.com/2013/04/rt-cpan-upgrade.html"
             },
             {
+               "author" : "brian_d_foy",
                "link" : "http://bit.ly/102VvIh",
                "tags" : [],
                "text" : "brian d foy launched a Crowdtilt campaign to fund the development of Pinto (and by ricochet Stratopan). We could probably wax poetically about the usefulness of Pinto, the shininess of Stratopan and the awesomeness of Jeff Thalhammer but, really, I think it could all be summarized by \"shut up and take my money!\".",
@@ -42,6 +43,7 @@
                "url" : "http://blogs.perl.org/users/brian_d_foy/2013/04/crowd-funding-pinto.html"
             },
             {
+               "author" : "john_napiorkowski",
                "link" : "http://bit.ly/102VvIm",
                "tags" : [],
                "text" : "A new version of Catalyst is on CPAN, with improvements both touching the code and the project itself. John Napiorkowski walks us through them.",
@@ -129,6 +131,7 @@
                "url" : "http://peter.makholm.net/2013/04/10/reviewing_my_own_regular_expression/"
             },
             {
+               "author" : "peteris_krumins",
                "link" : "http://bit.ly/102VxzZ",
                "tags" : [],
                "text" : "Peteris Krumins pushed a bunch of utility scripts to GitHub. We bet some of them could also be useful to you.",
@@ -210,6 +213,7 @@
       {
          "entries" : [
             {
+               "author" : "reini_urban",
                "link" : "http://bit.ly/ZrIzpe",
                "tags" : [],
                "text" : "Reini Urban gives us an update on p2, the new perl11 VM. ... wait, did I just said \"Perl 11\"?",

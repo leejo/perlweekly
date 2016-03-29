@@ -57,6 +57,7 @@
       {
          "entries" : [
             {
+               "author" : "moritz_lenz",
                "link" : "http://bit.ly/SrXX2H",
                "tags" : [],
                "text" : "An interview of I-Programmer with Moritz Lenz first addresses the relationship between Perl 5 and Perl 6, then discusses Perl 6 mutable grammars, and how Parrot might aid language development.",

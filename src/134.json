@@ -26,6 +26,7 @@
       {
          "entries" : [
             {
+               "author" : "moritz_lenz",
                "link" : "http://bit.ly/1lZpkA4",
                "tags" : [],
                "text" : "Moritz Lenz's website Sudokugarden recently got a sizable spike in its traffic. With great success come scaling snags. He shares with us the problems the site hit, and what he did to work around them.",
@@ -58,6 +59,7 @@
                "url" : "http://www.dereferenced.com/2014/02/13/cpan-testers-follow-up-progress-is-made/"
             },
             {
+               "author" : "david_farrell",
                "link" : "",
                "tags" : [],
                "text" : "David Farrell shows us one of the new cool features coming in Perl 5.20.",
@@ -74,6 +76,7 @@
                "url" : "http://perladventures.blogspot.ca/2014/02/lists-lists-lists.html"
             },
             {
+               "author" : "joel_berger",
                "link" : "http://bit.ly/1lZpkQF",
                "tags" : [],
                "text" : "Joel Berger reminesces on his DFW deduplication contest entry.",
@@ -105,6 +108,7 @@
       {
          "entries" : [
             {
+               "author" : "mark_dominus",
                "link" : "http://bit.ly/1lZpnfo",
                "tags" : [],
                "text" : "Why? Because it's usually simple to do, and makes things easy. Mark Dominus makes the case for the ever-useful unique identifier.",
@@ -121,6 +125,7 @@
                "url" : "http://www.perl.com/pub/2014/02/perl-today-february-2014.html"
             },
             {
+               "author" : "peter_rabbitson",
                "link" : "http://bit.ly/1lZpnfq",
                "tags" : [],
                "text" : "Peter Rabbitson (aka. Ribasushi) embraced the current Perl Gittip movement, and argues how it can be a good way to give a nod to your favorite CPAN authors.",
@@ -129,6 +134,7 @@
                "url" : "http://blogs.perl.org/users/peter_rabbitson/2014/02/i-bought-a-weekly-round-for-my-friends.html"
             },
             {
+               "author" : "neil_bowers",
                "link" : "http://bit.ly/1lZpnfr",
                "tags" : [],
                "text" : "Gittip now has a Perl community. If you are a CPAN author, you should consider joining. Here, Neil Bowers shows you how to add a gittip icon to your MetaCPAN account (spoiler: it's super easy).",
@@ -152,6 +158,7 @@
                "url" : "http://techblog.net-a-porter.com/2014/02/develcover-are-you-covered/"
             },
             {
+               "author" : "barbie",
                "link" : "http://bit.ly/1lZpl7b",
                "tags" : [],
                "text" : "Barbies offers a view of what's happening in the Perl world, through tester's lenses.",
@@ -214,6 +221,7 @@
                "url" : "http://www.nntp.perl.org/group/perl.perl5.porters/2014/02/msg212800.html"
             },
             {
+               "author" : "andrew_solomon",
                "link" : "http://bit.ly/1lZplnH",
                "tags" : [],
                "text" : "The results of the survey of the Perl Web Development job market conducted by Andrew Solomon.",
@@ -227,6 +235,7 @@
       {
          "entries" : [
             {
+               "author" : "jt_smith",
                "link" : "http://bit.ly/1lZplnL",
                "tags" : [],
                "text" : "Video of JT Smith's talk. And if those are stupid tricks, I guess we probably could all use a few more concussions in our lives.",

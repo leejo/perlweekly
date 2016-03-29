@@ -41,6 +41,7 @@
                "url" : "http://blog.yapcna.org/post/43144827313/quick-update"
             },
             {
+               "author" : "peter_rabbitson",
                "link" : "http://bit.ly/ZlTjKW",
                "tags" : [],
                "text" : "Peter Rabbitson pushed out new version of DBIC 'which *should not* eat your data'. Go, try it!",
@@ -104,6 +105,7 @@
       {
          "entries" : [
             {
+               "author" : "brian_d_foy",
                "link" : "http://bit.ly/ZlTk1f",
                "tags" : [],
                "text" : "brian d foy is on a benchmarking mission. Showcasing his new Surveyor::App, he confirms that for the task of html encoding, HTML::Escape really lets HTML::Entities eat its dust.",
@@ -149,6 +151,7 @@
                "url" : "http://babyl.dyndns.org/techblog/entry/play-perl"
             },
             {
+               "author" : "brian_d_foy",
                "link" : "http://bit.ly/ZlTk1r",
                "tags" : [],
                "text" : "If you love something, set it free. That also applies to modules, brian d foy reminds us, and shows us how to put your old modules to adoption.",
@@ -157,6 +160,7 @@
                "url" : "http://blogs.perl.org/users/brian_d_foy/2013/02/mark-your-modules-as-adoptable-if-you-dont-want-them.html"
             },
             {
+               "author" : "joel_berger",
                "link" : "http://bit.ly/Ysn1sN",
                "tags" : [],
                "text" : "In a spin-off of the Galileo CMS project, Joel Berger introduces GalileoSend, a new protocol for sending files over websockets.",
@@ -197,6 +201,7 @@
                "url" : "http://blogs.perl.org/users/robhammond/2013/02/web-scraping-with-perl-phantomjs.html"
             },
             {
+               "author" : "joel_berger",
                "link" : "http://bit.ly/Ysn73C",
                "tags" : [],
                "text" : "Want to discuss Galileo, the new shiny Perl-based CMS? Or poke its author, Joel Berger, directly? Well, rejoice, for it now has its very own IRC channel to do exactly that.",
@@ -286,6 +291,7 @@
       {
          "entries" : [
             {
+               "author" : "dave_cross",
                "link" : "http://bit.ly/Ysn7k7",
                "tags" : [],
                "text" : "Dave Cross summarizing his latest experience running the almost free 'Perl School'.",

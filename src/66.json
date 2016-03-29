@@ -32,6 +32,7 @@
       {
          "entries" : [
             {
+               "author" : "john_napiorkowski",
                "link" : "http://bit.ly/ShqBWw",
                "tags" : [],
                "text" : "BUILDARGS allows pre-processing incoming initialization parameters. There are cases when this works well, but as John Napiorkowski shows, there are also cases when it leads to code that's hard to understand and maintain. He suggests a couple of other solutions. For example the factory design pattern or the builder design pattern.",
@@ -120,6 +121,7 @@
       {
          "entries" : [
             {
+               "author" : "steven_haryanto",
                "link" : "http://bit.ly/ShFgBg",
                "tags" : [
                   "Progress::Any",
@@ -151,6 +153,7 @@
       {
          "entries" : [
             {
+               "author" : "joel_berger",
                "link" : "http://bit.ly/TMHBQD",
                "tags" : [],
                "text" : "Joel Berger reports, that his project is almost finished. Alien::Base should help you build your own Alien::* package making it easy to install non-CPAN dependencies.",
@@ -164,6 +167,7 @@
       {
          "entries" : [
             {
+               "author" : "jonathan_worthington",
                "link" : "http://bit.ly/S3mf1V",
                "tags" : [],
                "text" : "Jonathan Worthington shows off with his latest improvements on his Perl 6 debugger project. Attribute introspection, trace points, 'step over' and 'step out' added. Oh and you can now step through a Perl 5 regex as well.",
@@ -172,6 +176,7 @@
                "url" : "http://6guts.wordpress.com/2012/10/24/rakudo-debugger-updates/"
             },
             {
+               "author" : "jonathan_worthington",
                "link" : "http://bit.ly/TmLIXo",
                "tags" : [
                   "JSON::Path"

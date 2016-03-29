@@ -25,6 +25,7 @@
                "url" : "http://act.yapc.eu/ye2013/schedule/"
             },
             {
+               "author" : "tatsuhiko_miyagawa",
                "link" : "http://bit.ly/11GV3Ov",
                "tags" : [],
                "text" : "Carton, another beautiful creation of Tatsuhiko Miyagawa, is a tool to bundle CPAN modules with your application. To make sure all the developers use the same version of the modules and that you can then release your application relying on a specific set of CPAN module/version pairs.",
@@ -46,6 +47,7 @@
       {
          "entries" : [
             {
+               "author" : "mark_allen",
                "link" : "http://bit.ly/13evMsn",
                "tags" : [],
                "text" : "cpanfile allows you to describe the list of dependencies your module/application has and installing them using cpanm, without creating a CPAN distribution. This can be useful for new developers on GitHub, or inside corporations. See how Mark Allen explains it and then read the comments, including the ones from Miyagawa, who created the cpanfile format.",
@@ -54,6 +56,7 @@
                "url" : "http://blogs.perl.org/users/mark_allen/2013/07/why-i-use-cpanfile-and-you-should-too.html"
             },
             {
+               "author" : "buddy_burden",
                "link" : "http://bit.ly/13evMsq",
                "tags" : [],
                "text" : "I found this article of Buddy Burden to be very good. It describes what is technical debt, why is it called that way, and how to handle it. He shows 4 methods for you to implement.",
@@ -83,6 +86,7 @@
       {
          "entries" : [
             {
+               "author" : "barbie",
                "link" : "http://bit.ly/11GV5pB",
                "tags" : [],
                "text" : "What is the difference between CPANTS and CPAN Testers? Who are the CPAN Testers? Why do they report failures? A few weeks ago there was a post complaining about the CPAN Testers (I did not link to it as I don't like posts attacking other people.) Now Barbie, the main person behind the CPAN Testers explains everything you might want to know about CPAN Testers! Well, almost.",
@@ -109,6 +113,7 @@
       {
          "entries" : [
             {
+               "author" : "damian_conway",
                "link" : "http://bit.ly/11GV4lg",
                "tags" : [],
                "text" : "Damian Conway is touring North America. You might still catch him talking in Toronto or New York.",
@@ -117,6 +122,7 @@
                "url" : "http://blogs.perl.org/users/damian_conway/2013/07/three-weeks-of-public-talks-coming-up.html"
             },
             {
+               "author" : "timm_murray",
                "link" : "http://bit.ly/11GV4lj",
                "tags" : [],
                "text" : "Would you like to spy on your neighbor? Now you can do that with your on drone controlled by Perl. Timm Murray continues his effort to connect Perl to the Parrot AR Drone with great success and with video images.",
@@ -159,6 +165,7 @@
       {
          "entries" : [
             {
+               "author" : "neil_bowers",
                "link" : "http://bit.ly/13evKAS",
                "tags" : [],
                "text" : "I wanted to do something like this for ages, I am glad Neil Bowers had the same idea and went for it. He created a metric that after some more tweaking will help identify which CPAN modules need some help, maybe even adoption. If you were wondering where could you contribute to Perl, look at the list and try to pick a module from there.",

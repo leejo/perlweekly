@@ -53,6 +53,7 @@
       {
          "entries" : [
             {
+               "author" : "ron_savage",
                "link" : "http://bit.ly/xRCYgq",
                "tags" : [],
                "text" : "Ron Savage announced GraphViz2::Marpa and linked to a long article he wrote about 'Lexing and Parsing with Marpa'.",
@@ -61,6 +62,7 @@
                "url" : "http://savage.net.au/Ron/html/graphviz2.marpa/Lexing.and.Parsing.with.Marpa.html"
             },
             {
+               "author" : "joel_berger",
                "link" : "http://bit.ly/xpaBU1",
                "tags" : [],
                "text" : "Joel Berger provides some directions how to select a good Perl tutorial. (one could, of course, just check out mine :-)",
@@ -77,6 +79,7 @@
                "url" : "http://blogs.perl.org/users/michael_g_schwern/2012/02/a-real-developer-challenge.html"
             },
             {
+               "author" : "neil_bowers",
                "link" : "http://bit.ly/xxkFAm",
                "tags" : [],
                "text" : "Neil Bowers describes the process of taking over maintenances of a CPAN module.",
@@ -167,6 +170,7 @@
       {
          "entries" : [
             {
+               "author" : "moritz_lenz",
                "link" : "http://bit.ly/yis6CT",
                "tags" : [],
                "text" : "Moritz Lenz writes about the first task in the Perl 6 coding contest that ended recently.",

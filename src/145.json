@@ -99,6 +99,7 @@
                "url" : "http://techblog.net-a-porter.com/2014/04/learning-the-perl-debugger-lesson-5/"
             },
             {
+               "author" : "steven_haryanto",
                "link" : "http://bit.ly/1jtIfnc",
                "tags" : [],
                "text" : "Steven Haryanto brings up an interesting problem. Give a short string, how can you cheaply(!) detect if it is any of the 'standard' or 'approved' formats?",
@@ -133,6 +134,7 @@
       {
          "entries" : [
             {
+               "author" : "neil_bowers",
                "link" : "http://bit.ly/1jtIgHG",
                "tags" : [],
                "text" : "As Neil Bowers is working on the CPAN author's dashboard he is putting the pieces together. This module allows you to iterate over all the recent releases limited by age.",
@@ -175,6 +177,7 @@
       {
          "entries" : [
             {
+               "author" : "paul_johnson",
                "link" : "http://bit.ly/1jtIgHN",
                "map" : {
                   "http://cpancover.com/" : "http://bit.ly/1jtIgHM"
@@ -241,6 +244,7 @@
       {
          "entries" : [
             {
+               "author" : "dave_cross",
                "link" : "http://bit.ly/1jtIgYh",
                "tags" : [],
                "text" : "This year Dave Cross will run his regular courses in November.",

@@ -16,6 +16,7 @@
       {
          "entries" : [
             {
+               "author" : "jeffrey_kegler",
                "link" : "http://bit.ly/NsczNu",
                "tags" : [
                   "Marpa::R2"
@@ -26,6 +27,7 @@
                "url" : "http://blogs.perl.org/users/jeffrey_kegler/2012/08/marpa-v-perl-regexes-a-rematch.html"
             },
             {
+               "author" : "brian_d_foy",
                "link" : "http://bit.ly/P53oVM",
                "tags" : [],
                "text" : "brian d foy goes philosophical on why you should use the exact same process as he does. Or why should you not do that. In any case, it is up to you to decide.",
@@ -34,6 +36,7 @@
                "url" : "http://blogs.perl.org/users/brian_d_foy/2012/08/should-my-perl-release-process-be-yours.html"
             },
             {
+               "author" : "thomas_klausner",
                "link" : "http://bit.ly/MQhJ9T",
                "tags" : [],
                "text" : "Thomas Klausner (domm) has released his blogging 'engine' which is similar to so many other - static page engines. You are not expected to try it.",
@@ -42,6 +45,7 @@
                "url" : "http://domm.plix.at/perl/2012_08_09_blio_my_blogging_engine.html"
             },
             {
+               "author" : "neil_bowers",
                "link" : "http://bit.ly/NjnuwJ",
                "tags" : [
                   "Acme::Tools",
@@ -67,6 +71,7 @@
                "url" : "http://babyl.ca/techblog/entry/avro"
             },
             {
+               "author" : "dave_cross",
                "link" : "http://bit.ly/N9VZkL",
                "tags" : [],
                "text" : "Do you use the HTML generating capabilities of CGI.pm? After reading the article by Dave Cross you might reconsider.",
@@ -130,6 +135,7 @@
       {
          "entries" : [
             {
+               "author" : "flavio_poletti",
                "link" : "http://bit.ly/PP2A2Y",
                "tags" : [
                   "Image::Magick"
@@ -153,6 +159,7 @@
                "url" : "http://news.perlfoundation.org/2012/08/spanish-localization-of-the-pe-1.html"
             },
             {
+               "author" : "paul_johnson",
                "link" : "http://bit.ly/NZ7ZnK",
                "tags" : [],
                "text" : "One question stands out: Are you using Devel::Cover on anything else than *nix or Windows? If yes, please contact Paul Johnson ASAP! He needs your input. - Actually even if you are using it on Windows or *nix you can contact him and thank him for his work!",
@@ -166,6 +173,7 @@
       {
          "entries" : [
             {
+               "author" : "rocky_bernstein",
                "link" : "http://bit.ly/Qsiscn",
                "tags" : [],
                "text" : "Another post from the series of Rocky Bernstein covering the writing of the new debugger. In this article he is discussing the question how much he should follow the established standard of gdb, and how much he can go on new, maybe better directions? He also helps us a bit to look around and see what happens in two different implementations of Ruby: MRI and Rubinius.",
@@ -192,6 +200,7 @@
       {
          "entries" : [
             {
+               "author" : "damian_conway",
                "link" : "http://oreil.ly/PeyBn6",
                "tags" : [],
                "text" : "A 10 minute interview with Damian Conway.",
@@ -226,6 +235,7 @@
       {
          "entries" : [
             {
+               "author" : "dave_cross",
                "link" : "http://bit.ly/MQfhjS",
                "tags" : [],
                "text" : "Dave Cross ran a free Perl course in London. This is his conclusion how it went and how he is going to improve, both the content, and the commitment from the students. IMHO charging money can create some commitment and makes people value the course more. Even if it is a small amount.",
@@ -234,6 +244,7 @@
                "url" : "http://perlhacks.com/2012/08/perl-school/"
             },
             {
+               "author" : "damian_conway",
                "link" : "http://bit.ly/PdfnBK",
                "tags" : [],
                "text" : "Damian Conway returns to Lausanne and London, and who knows where else.",

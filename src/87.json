@@ -92,6 +92,7 @@
       {
          "entries" : [
             {
+               "author" : "brian_d_foy",
                "link" : "http://bit.ly/11B0Na5",
                "tags" : [],
                "text" : "A few weeks ago brian d foy posted about the new crowd-founding site Catincan and how he wanted to try. This is the result. I hope more people will jump on the idea and start experimenting to getting funded for projects. At first I can imagine you'd try with relatively small projects, and if those are successful, then you can try with bigger ones.",
@@ -105,6 +106,7 @@
       {
          "entries" : [
             {
+               "author" : "dave_mitchell",
                "link" : "http://bit.ly/14oDd4R",
                "tags" : [],
                "text" : "Dave Mitchell reports that in the last 2 months he hardly had any time for the Perl 5 maintenance grant work.",
@@ -118,6 +120,7 @@
       {
          "entries" : [
             {
+               "author" : "barbie",
                "link" : "http://bit.ly/14oDaWK",
                "tags" : [],
                "text" : "While testing might not be exciting for many, I think it is one of the most awesome areas in Perl. I am really glad Barbie and co. keep working on the CPAN Testers infrastructure and he keeps reporting.",
@@ -126,6 +129,7 @@
                "url" : "http://blog.cpantesters.org/diary/156"
             },
             {
+               "author" : "david_golden",
                "link" : "http://bit.ly/11B0MDd",
                "tags" : [
                   "Test::Routine ",
@@ -153,6 +157,7 @@
       {
          "entries" : [
             {
+               "author" : "david_golden",
                "link" : "http://bit.ly/14oDaWR",
                "tags" : [],
                "text" : "Providing feedback to module authors is a great way to encourage them to do more. Even if the feedback is only by up-voting their module on MetaCPAN. David Golden shows a way to do that automatically for all the modules you use.",
@@ -183,6 +188,7 @@
                "url" : "http://szabgab.com/perl-developers-and-countries.html"
             },
             {
+               "author" : "neil_bowers",
                "link" : "http://bit.ly/14oDaWS",
                "tags" : [],
                "text" : "Neil Bowers had another idea to create a mash-up of several sources of Perl-related news and integrate them in a single page.",
@@ -191,6 +197,7 @@
                "url" : "http://blogs.perl.org/users/neilb/2013/03/idea-perl-community-homepage.html"
             },
             {
+               "author" : "brian_d_foy",
                "link" : "http://bit.ly/11B0NqG",
                "tags" : [],
                "text" : "brian d foy is looking for your recommendations for the three White Camel awardees for outstanding (non-code) contribution to the Perl community.",

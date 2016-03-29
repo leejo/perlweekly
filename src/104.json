@@ -25,6 +25,7 @@
                "url" : "http://saltlake.pm.org/"
             },
             {
+               "author" : "doug_bell",
                "link" : "http://bit.ly/1bEfAsw",
                "tags" : [],
                "text" : "preaction (aka. Doug Bell) has started to organize this thing. Let him know if you are interested so he can plan accordingly.",
@@ -46,6 +47,7 @@
                "url" : "http://blogs.perl.org/users/vyacheslav_matjukhin/2013/07/contribute-to-perl-by-completing-quests-on-questhub.html"
             },
             {
+               "author" : "neil_bowers",
                "link" : "http://bit.ly/1369eKd",
                "tags" : [],
                "text" : "Version numbers should be boring. Here is how Neil Bowers recommends to use them.",
@@ -88,6 +90,7 @@
                "url" : "http://szabgab.com/compiling-perl-python-and-ruby.html"
             },
             {
+               "author" : "david_golden",
                "link" : "http://bit.ly/1bEfzok",
                "tags" : [],
                "text" : "David Golden is doing some research on how companies handle the mix of CPAN modules and their own code (aka. DarkPAN). If you have such beast, and if you are using Perl in your company then surely you have, then go ahead, talk to David.",
@@ -153,6 +156,7 @@
       {
          "entries" : [
             {
+               "author" : "sebastian_willing",
                "link" : "http://bit.ly/1bEfAZv",
                "tags" : [],
                "text" : "WordPress has tons of plugins and themes and what not. Many of these are open source, so if you have some other blogging engine, for example Movable Type, or even a simple, static 'blog engine', you could convert the nice WordPress themes to one of your own. This is what Sebastian Willing has been describing in his recent blog entry. ",
@@ -161,6 +165,7 @@
                "url" : "http://www.pal-blog.de/movabletype/2013/converting-a-wordpress-theme-to-movabletype.html"
             },
             {
+               "author" : "alex_balhatchet",
                "link" : "http://bit.ly/1369hWd",
                "tags" : [],
                "text" : "This time Ovid interviewed Alex Balhatchet, the CTO of Lokku/Nestoria, a London based property search engine that operates in 8 countries. They discussed the technology stack behind the search engine. The three big areas of the application and how Perl fits them well. If you are working at a start-up company I recommend reading this and sending a link to your CTO as well. You could also contact Ovid to see if he would be interested interviewing your CTO as well?",
@@ -182,6 +187,7 @@
       {
          "entries" : [
             {
+               "author" : "chad_granum",
                "link" : "http://bit.ly/1bEfzER",
                "tags" : [],
                "text" : "After 2 months of break, the Perl Maven TV is back with an interview with Chad Granum. Most of the time we talked about Fennec, the testing environment for Perl modules and applications, but we also covered DCI (Data, Context, Interactions) a bit. The interview is available both as a YouTube video and a downloadable mp3 file.",
@@ -195,6 +201,7 @@
       {
          "entries" : [
             {
+               "author" : "jonathan_worthington",
                "link" : "http://bit.ly/1bEfBfX",
                "tags" : [],
                "text" : "Promises are good when they are kept. And here we go, Jonathan Worthington has already added Promises to the JVM back-end of Rakudo Perl 6. It seems he is already working in parallel, or I don't know how he manages to get so much done so quickly.",

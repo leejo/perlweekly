@@ -16,6 +16,7 @@
       {
          "entries" : [
             {
+               "author" : "viacheslav_tykhanovskyi",
                "link" : "http://bit.ly/AAaMEd",
                "tags" : [],
                "text" : "Viacheslav Tykhanovskyi (vti) decoupled PocketIO from Plack.",
@@ -45,6 +46,7 @@
       {
          "entries" : [
             {
+               "author" : "david_golden",
                "link" : "http://bit.ly/zGJIMK",
                "tags" : [],
                "text" : "David Golden (xdg dagolden) has published a nice graph nicely showing the release dates of various stable Perl versions. It's also interesting to see the first comment immediately raising the potential problem of the shorter release cycles for end-users.",
@@ -53,6 +55,7 @@
                "url" : "http://www.dagolden.com/index.php/1587/visualizing-perl-5-release-cycles/"
             },
             {
+               "author" : "jeffrey_kegler",
                "link" : "http://bit.ly/xhDOra",
                "tags" : [],
                "text" : "Jeffrey Kegler writes about code reuse and the Marpa module and algorithm.",
@@ -87,6 +90,7 @@
       {
          "entries" : [
             {
+               "author" : "mark_fowler",
                "link" : "http://bit.ly/wOpS4E",
                "tags" : [],
                "text" : "Mark Fowler is talking about converting some patterns of ASCII and turning them into HTML entities or Unicode characters.",
@@ -95,6 +99,7 @@
                "url" : "http://blog.twoshortplanks.com/2012/01/20/frac/"
             },
             {
+               "author" : "reini_urban",
                "link" : "http://bit.ly/ymUPza",
                "tags" : [],
                "text" : "Reini Urban describes some crazy code.",

@@ -25,6 +25,7 @@
                "url" : "http://anonymoushash.vmbrasseur.com/2013/07/22/the-rising-costs-of-aging-perlers-part-1-the-data/"
             },
             {
+               "author" : "dave_cross",
                "link" : "http://bit.ly/14ZoP3T",
                "tags" : [],
                "text" : "The proof, ultimately, is always in the pudding. In this case, an English pudding, as Dave Cross launches a new website called 'The Political Web' running on Dancer.",
@@ -33,6 +34,7 @@
                "url" : "http://perlhacks.com/2013/07/just-build-something/"
             },
             {
+               "author" : "barbie",
                "link" : "http://bit.ly/17NtdAU",
                "tags" : [],
                "text" : "With every YAPC comes a survey about the audience demographics, the quality of the talks and other things pertaining to the event. The results for YAPC::NA of this year are in, and Barbie shares them.",
@@ -41,6 +43,7 @@
                "url" : "http://blogs.perl.org/users/barbie/2013/07/yapcna-2012---the-results-are-out.html"
             },
             {
+               "author" : "yuki_kimoto",
                "link" : "http://bit.ly/14ZoPk8",
                "tags" : [],
                "text" : "Want to provide a web view of your Git repositories? Yuki Kimoto adds a new Perl-based offering to the table: GitPrep. In this article, he highlights the differences between this new contender and GitLab, one of the scene's major incumbents.",
@@ -56,6 +59,7 @@
       {
          "entries" : [
             {
+               "author" : "neil_bowers",
                "link" : "http://bit.ly/14ZoPk9",
                "tags" : [],
                "text" : "Neil Bowers reminds us that CPAN is not an immutable entity that exists independently of everything. It's literally the sum and beating heart of the community, and ultimately what we'll all be able to take out of it is what we all, individually, put in it.",
@@ -64,6 +68,7 @@
                "url" : "http://neilb.org/2013/07/22/thank-an-author.html"
             },
             {
+               "author" : "neil_bowers",
                "link" : "http://bit.ly/17NtdAV",
                "tags" : [],
                "text" : "Want to contribute to the Perl ecosystem, but don't have a revolutionary new idea at the moment? Then why not consider adopting a module? Neil Bowers walks us through the typical process to adopt one of those lonely bundles of code.",
@@ -88,6 +93,7 @@
                "url" : "http://blogs.perl.org/users/ovid/2013/07/how-to-fake-database-design.html"
             },
             {
+               "author" : "ricardo_signes",
                "link" : "http://bit.ly/17NtdB0",
                "tags" : [],
                "text" : "There are two constants about hackers: we always have a heap of things we wanna do, and we never have enough tuits to do them all. Ricardo Signes, like all of us, strives for that holy grail of maximal personal productivity. In that optic, he's sharing how he uses the 'Daily Practice' web tool to help him, and how a few well-placed Perl scripts can automate some of its updates.",
@@ -158,6 +164,7 @@
                "url" : "http://blog.gnustavo.com/2013/07/git-hooks-are-awesome-but-hard.html"
             },
             {
+               "author" : "frew_schmidt",
                "link" : "http://bit.ly/17Ntggb",
                "tags" : [],
                "text" : "Event-based programming is prone to induce headaches. But in some cases, if used in the right manner it can provide tremendously simple solutions to tricky problems, as fREW Schmidt shows us.",
@@ -181,6 +188,7 @@
                "url" : "http://developers.slashdot.org/story/13/07/24/1756254/ingy-dt-net-tells-how-acemeism-bridges-gaps-in-the-software-world-video"
             },
             {
+               "author" : "jeffrey_thalhammer",
                "link" : "http://bit.ly/17NtdRp",
                "tags" : [],
                "text" : "Jeffrey Thalhammer gives us the very first Stratopan screencast. On the menu today: Stratopan's searching features.",
@@ -189,6 +197,7 @@
                "url" : "http://blog.stratopan.com/2013/07/stratocast-searching-your-repository/"
             },
             {
+               "author" : "mark_allen",
                "link" : "http://bit.ly/17Ntgwq",
                "tags" : [],
                "text" : "Mark Allen OSCON talk, in which he presents an overview of the  HTTP clients that Perl has to offer.",
@@ -197,6 +206,7 @@
                "url" : "https://speakerdeck.com/mrallen1/giving-lwp-its-well-deserved-golden-watch"
             },
             {
+               "author" : "tatsuhiko_miyagawa",
                "link" : "http://bit.ly/17NtdRt",
                "tags" : [],
                "text" : "Tatsuhiko Miyagawa's slides from his OSCON talk, presenting the marvels Carton has to offer for all of us who suffered the torments of dependency hells.",
@@ -213,6 +223,7 @@
                "url" : "http://blog.laufeyjarson.com/2013/07/earlier-presentation-on-catalyst/"
             },
             {
+               "author" : "sawyer_x",
                "link" : "http://slidesha.re/14ZoQVt",
                "tags" : [],
                "text" : "Sawyer X introduces us to the power of asynchronous programming in general, and to the use of AnyEvent in particular.",

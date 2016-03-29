@@ -41,6 +41,7 @@
                "url" : "http://blogs.perl.org/users/sawyer_x/2011/09/abstracting-the-company-away-part-2.html"
             },
             {
+               "author" : "jeffrey_kegler",
                "link" : "http://bit.ly/p0Xv3k",
                "tags" : [
                   "use",
@@ -54,6 +55,7 @@
                "url" : "http://blogs.perl.org/users/jeffrey_kegler/2011/09/perl-and-parsing-9-use-and-the-ruby-slippers.html"
             },
             {
+               "author" : "brian_d_foy",
                "link" : "http://bit.ly/qQYo3U",
                "tags" : [
                   "ref",
@@ -80,6 +82,7 @@
                "url" : "http://www.perl.com/pub/2011/09/automating-telephony-with-perl-and-twilio.html"
             },
             {
+               "author" : "damian_conway",
                "link" : "http://bit.ly/pvLJkz",
                "tags" : [
                   "Perl 6",
@@ -147,6 +150,7 @@
                "url" : "http://www.modernperlbooks.com/mt/2011/09/introducing-placktestagent.html"
             },
             {
+               "author" : "viacheslav_tykhanovskyi",
                "link" : "http://bit.ly/p6ppdl",
                "tags" : [
                   "Node.JS",
@@ -199,6 +203,7 @@
       {
          "entries" : [
             {
+               "author" : "mike_doherty",
                "link" : "http://bit.ly/ow37aQ",
                "tags" : [
                   "testing",

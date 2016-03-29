@@ -74,6 +74,7 @@
                "url" : "http://blogs.perl.org/users/aaron_crane/2011/08/monkey-patching-subclassing-and-accidental-overriding.html"
             },
             {
+               "author" : "viacheslav_tykhanovskyi",
                "tags" : [
                   "MetaCPAN",
                   "PAUSE"
@@ -84,6 +85,7 @@
                "url" : "http://showmetheco.de/articles/2011/8/perl-resume.html"
             },
             {
+               "author" : "ricardo_signes",
                "tags" : [
                   "Stackato",
                   "ActiveState",
@@ -96,6 +98,7 @@
                "url" : "http://rjbs.manxome.org/rubric/entry/1909"
             },
             {
+               "author" : "flavio_poletti",
                "tags" : [
                   "JSON",
                   "utf8",
@@ -121,6 +124,7 @@
       {
          "entries" : [
             {
+               "author" : "dave_rolsky",
                "tags" : [
                   "YAPC",
                   "conference",
@@ -149,6 +153,7 @@
                "url" : "http://www.dereferenced.com/2011/08/22/perl-module-monday-carpalways/"
             },
             {
+               "author" : "yanick_champoux",
                "tags" : [
                   "Template::Declare",
                   "Dancer::Template::TemplateDeclare"
@@ -180,6 +185,7 @@
                "url" : "http://blogs.perl.org/users/rebecca/2011/08/world-on-create-sub-say-hello.html"
             },
             {
+               "author" : "paul_evans",
                "tags" : [
                   "AnyEvent",
                   "IO::Async"
@@ -208,6 +214,7 @@
                "url" : "http://www.modernperlbooks.com/mt/2011/08/serving-a-local-directory-with-plack.html"
             },
             {
+               "author" : "frew_schmidt",
                "tags" : [
                   "dispatch table",
                   "OOP"
@@ -218,6 +225,7 @@
                "url" : "http://blog.afoolishmanifesto.com/archives/1648"
             },
             {
+               "author" : "sebastian_riedel",
                "tags" : [
                   "Mojolicious",
                   "HTML5",
@@ -249,6 +257,7 @@
       {
          "entries" : [
             {
+               "author" : "ricardo_signes",
                "tags" : [
                   "culture"
                ],
@@ -275,6 +284,7 @@
                "url" : "http://perlnews.org/2011/07/lpw2011-call-for-speakers/"
             },
             {
+               "author" : "renee_baecker",
                "tags" : [
                   "FrOSCon",
                   "German",

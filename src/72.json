@@ -48,6 +48,7 @@
                "url" : "http://blogs.perl.org/users/john_mcnamara/2012/12/adding-macros-to-excelwriterxlsx.html"
             },
             {
+               "author" : "thomas_klausner",
                "link" : "http://bit.ly/12gvnGL",
                "tags" : [],
                "text" : "Thomas Klausner goes into great detail and explains how to install and use ZeroMQ (The Intelligent Transport Layer) to speed up communication between machines.  If only I could get longer lines on his web site...",
@@ -61,6 +62,7 @@
       {
          "entries" : [
             {
+               "author" : "yanick_champoux",
                "link" : "http://bit.ly/RTMKMn",
                "tags" : [
                   "Galuga",
@@ -73,6 +75,7 @@
                "url" : "http://babyl.dyndns.org/techblog/entry/caribou-dance"
             },
             {
+               "author" : "david_golden",
                "link" : "http://bit.ly/12gvkL6",
                "tags" : [],
                "text" : "David Golden shows his newly acquired tools. Dancer, the route-based web framework; Xslate, the templating engine; and Bootstrap which is a nice HTML/CSS/JavaScript framework released by Twitter.",
@@ -81,6 +84,7 @@
                "url" : "http://www.dagolden.com/index.php/1795/my-first-week-of-dancer-xslate-and-bootstrap/"
             },
             {
+               "author" : "steven_haryanto",
                "link" : "http://bit.ly/RTMME8",
                "tags" : [],
                "text" : "'CGI might be out of favor for production sites, but for personal and internal applications, it's still the best choice for me.' writes and explains Steven Haryanto. Then in the comment section you'll see how PSGI wins even when you want to run as CGI.",
@@ -144,6 +148,7 @@
       {
          "entries" : [
             {
+               "author" : "jt_smith",
                "link" : "http://bit.ly/12gvkLc",
                "tags" : [
                   "Image::Magick"
@@ -159,6 +164,7 @@
       {
          "entries" : [
             {
+               "author" : "carl_masak",
                "link" : "http://bit.ly/12gvnXa",
                "tags" : [],
                "text" : "This is the Hague Grant Carl Masak receives.",
@@ -185,6 +191,7 @@
       {
          "entries" : [
             {
+               "author" : "carl_masak",
                "link" : "http://bit.ly/RTMNrD",
                "tags" : [],
                "text" : "As part of the Advent calendar Carl Masak explains how strangely consistent Perl 6 is, with the decision to change the behavior of the '|' operator in regexes to always match the longest string.",

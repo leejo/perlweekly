@@ -25,6 +25,7 @@
                "url" : "http://perlnews.org/2013/11/foswiki-1-1-9-released-just-in-time-for-its-5th-anniversary/"
             },
             {
+               "author" : "peteris_krumins",
                "link" : "http://bit.ly/IomDJf",
                "tags" : [],
                "text" : "<b>Perl one-liners</b> written by Peteris Krumins has just been published by No Starch Press. Read my review and if you would like to buy it, you can use the discount code PERLWEEKLY. It's 30% off and is valid for the next 10 days.",
@@ -98,6 +99,7 @@
       {
          "entries" : [
             {
+               "author" : "rob_hoelz",
                "link" : "http://bit.ly/1c46pRc",
                "tags" : [],
                "text" : "Do you know how import works in Perl? Do you know what \\*STDOUT means? Do you know how to create a function on the fly? Rob Hoelz explains all that.",
@@ -132,6 +134,7 @@
       {
          "entries" : [
             {
+               "author" : "andrew_solomon",
                "link" : "http://svy.mk/1c46q7r",
                "tags" : [],
                "text" : "Andrew Solomon is running a small, one-page survey on Perl and web. Please fill it out in the next 48 hours and if you don't forget, please mention that you read about the survey in the Perl weekly. (I think the 5th question can have this information).",
@@ -145,6 +148,7 @@
       {
          "entries" : [
             {
+               "author" : "tudor_constantin",
                "link" : "http://bit.ly/IomFAX",
                "tags" : [],
                "text" : "Tudor Constantin has announced a new web site built by Evozon featuring start-up companies that rely on Perl. Do you work for one? Do you own one? Do you want to get featured?",
@@ -179,6 +183,7 @@
                "url" : "http://perltv.org/v/building-your-first-app-using-mongodb-and-perl"
             },
             {
+               "author" : "casey_west",
                "link" : "http://bit.ly/1c47okm",
                "tags" : [],
                "text" : "(48:55) - Casey West gives a quick overview of Twitter Bootstrap, HTML5 Boilerplate, Modernizr, Shims, Respond.js, Mimosa, Stylus, and a lot of other front-end tools and libraries.",

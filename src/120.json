@@ -25,6 +25,7 @@
       {
          "entries" : [
             {
+               "author" : "jeffrey_thalhammer",
                "link" : "",
                "tags" : [],
                "text" : "Well, look who just moved in in the neighborhood... PerlCritic has moved its home to GitHub, announces Jeffrey Thalhammer. And y&#39;all know what that means... Let the forking begin!",
@@ -33,6 +34,7 @@
                "url" : "http://blogs.perl.org/users/jeff_thalhammer1/2013/11/perl-critic-migration-to-github-is-complete.html"
             },
             {
+               "author" : "john_napiorkowski",
                "link" : "",
                "tags" : [],
                "text" : "Catalyst development is rolling on. John Napiorkowski announces the release marking the end of the &#39;Hamburg&#39; development cycle.",
@@ -41,6 +43,7 @@
                "url" : "http://jjnapiorkowski.typepad.com/modern-perl/2013/11/perl-catalyst-hamburg-is-now-stable-version-590050-is-now-on-cpan.html"
             },
             {
+               "author" : "ricardo_signes",
                "link" : "",
                "tags" : [],
                "text" : "The Time of Eggnog draws nigh... Want to contribute to the tradition of the Perl Advent calendar? Then join the mailing list, and report to the master elf, Ricardo Signes.",
@@ -87,6 +90,7 @@
       {
          "entries" : [
             {
+               "author" : "sinan_unur",
                "link" : "",
                "tags" : [],
                "text" : "Yes, says Reddit. Balderdash, replies Sinan Unur.",
@@ -180,6 +184,7 @@
       {
          "entries" : [
             {
+               "author" : "mike_friedman",
                "link" : "",
                "tags" : [],
                "text" : "Mike Friedman talks about Perl and MongoDB with the fine folks at Huffington Post.",

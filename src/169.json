@@ -66,6 +66,7 @@
       {
          "entries" : [
             {
+               "author" : "david_farrell",
                "link" : "http://bit.ly/1rmjSHL",
                "tags" : [],
                "text" : "David Farrell is working on a 2D game engine called March which uses a composition pattern for its actors. This is how he tests the code.",
@@ -167,6 +168,7 @@
                "url" : "http://strangelyconsistent.org/blog/macros-nesting-macros"
             },
             {
+               "author" : "solomon_foster",
                "link" : "http://bit.ly/1nwFPsq",
                "tags" : [],
                "text" : "Solomon Foster (colomon) is being confused by the flattening (or not) behaviour of Perl 6. So what can mere mortals say?",

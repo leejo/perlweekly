@@ -16,6 +16,7 @@
       {
          "entries" : [
             {
+               "author" : "john_napiorkowski",
                "link" : "http://bit.ly/SKCu30",
                "tags" : [],
                "text" : "As you might recall, a few weeks ago John Napiorkowski ran a survey about the Catalyst MVC. This week he started to publish the results by describing the background of the people who answered the survey.",
@@ -24,6 +25,7 @@
                "url" : "http://jjnapiorkowski.typepad.com/modern-perl/2012/09/understanding-the-catalyst-poll-who-answered-the-poll.html"
             },
             {
+               "author" : "neil_bowers",
                "link" : "http://bit.ly/UoicO1",
                "tags" : [
                   "Module::Path"
@@ -44,6 +46,7 @@
                "url" : "http://blogs.perl.org/users/kirk_kimmel/2012/09/text-processing-divide-and-conquer.html"
             },
             {
+               "author" : "jeffrey_kegler",
                "link" : "http://bit.ly/Qc5ZOs",
                "tags" : [
                   "Marpa"
@@ -82,6 +85,7 @@
                "url" : "http://blogs.perl.org/users/sawyer_x/2012/09/perl-on-ldtp-is-gaining-traction.html"
             },
             {
+               "author" : "yanick_champoux",
                "link" : "http://bit.ly/SKEJ6j",
                "tags" : [
                   "Dancer"
@@ -103,6 +107,7 @@
                "url" : "http://damien.krotkine.com/2012/09/20/masstesting-dancers-plugins.html"
             },
             {
+               "author" : "neil_bowers",
                "link" : "http://bit.ly/OOJxqe",
                "tags" : [],
                "text" : "When dealing with portability, Neil Bowers had to deal with directory separators, and converting relative path to full path on other operating systems as well. Apparently we also have issues with spaced in directory and file names. What about non-ASCII characters in the file path?",
@@ -116,6 +121,7 @@
       {
          "entries" : [
             {
+               "author" : "jeffrey_thalhammer",
                "link" : "http://bit.ly/OOnPCG",
                "tags" : [],
                "text" : "At YAPC::NA I saw the presentation of Jeffrey Thalhammer (the same guy who brought Perl::Critic to us), and was quite impressed. Since then Pinto was further improved including its own version control mechanism.",
@@ -134,6 +140,7 @@
                "url" : "http://blogs.perl.org/users/olaf_alders/2012/09/introducing-httpcookiemonster.html"
             },
             {
+               "author" : "dha",
                "link" : "http://bit.ly/UqRlkt",
                "tags" : [],
                "text" : "new version of Wx and fixing long standing problem with Hash::Util::FieldHash.",
@@ -157,6 +164,7 @@
       {
          "entries" : [
             {
+               "author" : "thomas_klausner",
                "link" : "http://bit.ly/SL4pzS",
                "tags" : [
                   "PDF::Create"
@@ -272,6 +280,7 @@
                "url" : "http://glitchmr.github.com/perl-6-changes-2012W38.html"
             },
             {
+               "author" : "ricardo_signes",
                "link" : "http://bit.ly/Sfti6d",
                "tags" : [],
                "text" : "Ricardo Signes is looking for a volunteer to described how to dual-life modules. The discussion on named prototypes (aka subroutine signatures) goes on and there were talks about performance as well.",

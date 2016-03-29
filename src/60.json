@@ -3,6 +3,7 @@
       {
          "entries" : [
             {
+               "author" : "tatsuhiko_miyagawa",
                "link" : "http://bit.ly/PqZnJU",
                "tags" : [],
                "text" : "Tatsuhiko Miyagawa has created the Plack Handbook based on the updated version of the 2009 Plack Advent Calendar.",
@@ -40,6 +41,7 @@
                "url" : "http://perlmaven.com/understanding-dates-using-regexes"
             },
             {
+               "author" : "rocky_bernstein",
                "link" : "http://bit.ly/RefSwX",
                "tags" : [],
                "text" : "While Shlomi Fish is adding tests to the existing debugger, Rocky Bernstein is working on a replacement and Eric Johnson (kablamo) is working on Vim::Debug. Interesting times. I hope something improved will come out of this that can be easily hooked into GUIs and IDEs and won't be restricted to the command-line enabled people.",
@@ -111,6 +113,7 @@
       {
          "entries" : [
             {
+               "author" : "frew_schmidt",
                "link" : "http://bit.ly/UeRQhx",
                "tags" : [
                   "DBIx::Class::MaterializedPath"
@@ -168,6 +171,7 @@
       {
          "entries" : [
             {
+               "author" : "paul_johnson",
                "link" : "http://bit.ly/RhaHXu",
                "tags" : [],
                "text" : "The report of Paul Johnson",
@@ -176,6 +180,7 @@
                "url" : "http://news.perlfoundation.org/2012/09/develcover-grant-report-for-au.html"
             },
             {
+               "author" : "dave_mitchell",
                "link" : "http://bit.ly/UdxqbD",
                "tags" : [],
                "text" : "Dave Mitchell reporting for July and August.",

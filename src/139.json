@@ -122,6 +122,7 @@
       {
          "entries" : [
             {
+               "author" : "timm_murray",
                "link" : "http://bit.ly/1m1NRUT",
                "tags" : [],
                "text" : "Timm Murray, a resident of the Wumpus Cave, explains what is a One Time Pad (OTP), how it is the perfect encryption system, and why we should never use it.",
@@ -130,6 +131,7 @@
                "url" : "http://www.wumpus-cave.net/2014/03/19/perl-encryption-primer-one-time-pads-are-too-awesome-to-use/"
             },
             {
+               "author" : "timm_murray",
                "link" : "http://bit.ly/1m1NRUV",
                "tags" : [],
                "text" : "Timm Murray writes about DES, the old standard for encryption, 3DES and Rijndael, also known as Advanced Encryption Standard (AES). The new standard that cannot be brute-forced.",
@@ -151,6 +153,7 @@
       {
          "entries" : [
             {
+               "author" : "dave_mitchell",
                "link" : "http://bit.ly/1m1NRV4",
                "tags" : [],
                "text" : "The grant report of Dave Mitchell.",
@@ -222,6 +225,7 @@
       {
          "entries" : [
             {
+               "author" : "david_farrell",
                "link" : "http://bit.ly/1m1NUQB",
                "tags" : [],
                "text" : "David Farrell shares some stats of his (their?) website. 17,000 visitors in February 2014, and pages per visit is 1.5. He wants to grow the visitor count to 70,000 in the next year.",
@@ -238,6 +242,7 @@
                "url" : "http://blogs.perl.org/users/gabor_szabo/2014/03/which-modules-do-you-use.html"
             },
             {
+               "author" : "yanick_champoux",
                "link" : "http://bit.ly/1m1NSYV",
                "tags" : [],
                "text" : "Yanick Champoux is interfacing Vim with Perl.",
@@ -259,6 +264,7 @@
                "url" : "http://blogs.perl.org/users/damian_conway/2014/03/le-sexe-et-la-violence-en-suisse.html"
             },
             {
+               "author" : "damian_conway",
                "link" : "http://bit.ly/1m1NSYW",
                "tags" : [],
                "text" : "by Damian Conway",

@@ -48,6 +48,7 @@
                "url" : "http://www.polypompholyx.com/2013/04/perl-moose-objects-roles/"
             },
             {
+               "author" : "flavio_glock",
                "link" : "http://bit.ly/10BhjDY",
                "tags" : [],
                "text" : "Nikos Vaggalis interviews  Flavio Glock about Perlito, the compiler collection that implements a subset of Perl 5 and Perl 6.",
@@ -64,6 +65,7 @@
                "url" : "http://www.techempower.com/blog/2013/05/02/frameworks-round-4/"
             },
             {
+               "author" : "dave_cross",
                "link" : "http://bit.ly/11a6y34",
                "tags" : [],
                "text" : "Dave Cross's blog has a new 'article' section where he has put the articles that he wrote for perl.com... 10 years ago. Will you dare boarding this Nostalgia Ride? ",
@@ -103,6 +105,7 @@
                "url" : "http://blogs.perl.org/users/vyacheslav_matjukhin/2013/05/usrlocalbin-rant.html"
             },
             {
+               "author" : "john_napiorkowski",
                "link" : "http://bit.ly/10BhhMw",
                "tags" : [],
                "text" : "Ah yes. Asynchronicity. Six syllables fit so send shivers down many a developer's spine. John Napiorkowski explains how much fun the Catalyst team is having with it nowadays, and ask for users' input to help trace the path forward.",
@@ -141,6 +144,7 @@
       {
          "entries" : [
             {
+               "author" : "brian_d_foy",
                "link" : "http://bit.ly/11a6yju",
                "tags" : [],
                "text" : "brian d foy has been playing with Heroku and Mojolicious. When things go well,they go very well. But what about when they go not as well? brian offers some tricks to debug things effectively.",
@@ -180,6 +184,7 @@
                "url" : "http://raspberry.znix.com/2013/03/modules-and-gui-app-released.html"
             },
             {
+               "author" : "carl_masak",
                "link" : "http://bit.ly/10Bhi30",
                "tags" : [],
                "text" : "How Carl Masak led a bunch of people in the subway through Github while writing Perl and creating clickable maps.",
@@ -218,6 +223,7 @@
                "url" : "http://blog.urth.org/2013/05/02/interview-with-gabor-moose-classes"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/10BhjUy",
                "tags" : [],
                "text" : "Gabor Szabo's interview with Tadeusz Sosnierz (aka tadzik),the developer of the Perl 6 Pod Parser and Panda, the Perl 6 module installer. ",

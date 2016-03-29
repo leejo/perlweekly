@@ -269,6 +269,7 @@
                "url" : "https://www.youtube.com/playlist?list=PLxavAW22r8AkOjZQENZzCZZYYgcYAtcg9"
             },
             {
+               "author" : "mark_keating",
                "link" : "http://bit.ly/1vE83Fl",
                "tags" : [],
                "text" : "Mark Keating (oh yeah, no PAUSE id, because he still hasn't released any damn code), posted his thoughts and feelings about the London Perl Workshop 2014. TL;DR: it was awesome, everyone was awesome.",

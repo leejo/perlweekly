@@ -30,6 +30,7 @@
                "url" : "http://blog.stratopan.com/2014/05/dependency-graphs-are-now-on-metacpan/"
             },
             {
+               "author" : "neil_bowers",
                "link" : "http://bit.ly/1j11Vuj",
                "tags" : [],
                "text" : "Neil Bowers draws our attention to the fulgurant growth of the Perl community on Gittip. Spoiler warning: we're now up to 509 members.",
@@ -69,6 +70,7 @@
                "url" : "http://blogs.perl.org/users/stevan_little/2014/05/on-prototyping-in-public.html"
             },
             {
+               "author" : "sawyer_x",
                "link" : "http://bit.ly/1j11VdN",
                "tags" : [],
                "text" : "The last installment of the Dancer interview of Sawyer X by Nikos Vaggalis. REST, only about web services? CGI, does it really have to die? Sawyer reveals all.",
@@ -85,6 +87,7 @@
                "url" : "http://blogs.perl.org/users/stevan_little/2014/05/on-prototyping-in-public-part-duex.html"
             },
             {
+               "author" : "barbie",
                "link" : "http://bit.ly/1j11Y9g",
                "tags" : [],
                "text" : "Barbie summarizes what happened in the CPAN testing world in April.",
@@ -93,6 +96,7 @@
                "url" : "http://blog.cpantesters.org/diary/178"
             },
             {
+               "author" : "sinan_unur",
                "link" : "http://bit.ly/1j11VKJ",
                "tags" : [],
                "text" : "If this is one of the questions that keep you awake at night, Sinan Unur might have some answers for you.",
@@ -108,6 +112,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/1j11Y9k",
                "tags" : [],
                "text" : "Gabor Szabo showcases a nice primer on Dancer, via the making of a blog engine.",
@@ -116,6 +121,7 @@
                "url" : "http://perlmaven.com/building-a-blog-engine-using-perl-dancer"
             },
             {
+               "author" : "david_farrell",
                "link" : "http://bit.ly/1j11VKL",
                "tags" : [],
                "text" : "A short little reminder by David Farrell that, no matter how beffudling a snippet of Perl can be, B::Deparse is always there to help shed a light on what's really going on.",
@@ -140,6 +146,7 @@
                "url" : "http://blogs.perl.org/users/ovid/2014/05/automatic-variable-highlighting-in-vim.html"
             },
             {
+               "author" : "dana_jacobsen",
                "link" : "http://bit.ly/1j11YpL",
                "map" : {
                   "http://blogs.perl.org/users/dana_jacobsen/2014/05/fun-with-binomials.html" : "http://bit.ly/1j11VKN"

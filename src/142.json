@@ -36,6 +36,7 @@
                "url" : "http://blogs.perl.org/users/ovid/2014/04/why-companies-turn-me-down-for-contracts.html"
             },
             {
+               "author" : "yanick_champoux",
                "link" : "http://bit.ly/1kWEGnS",
                "tags" : [],
                "text" : "Yanick Champoux explains how preparing the Perl Weekly was made easier for him by adding special keys to Vim that will run a Perl script to fetch information from a web site and update the currently edited file.",
@@ -112,6 +113,7 @@
       {
          "entries" : [
             {
+               "author" : "sinan_unur",
                "link" : "http://bit.ly/1kWEGEt",
                "map" : {
                   "http://blog.nu42.com/2014/04/link-with-64-bit-libraries-luke.html" : "http://bit.ly/1kWEIMy"
@@ -128,6 +130,7 @@
       {
          "entries" : [
             {
+               "author" : "mike_doherty",
                "link" : "http://bit.ly/1kWEGUQ",
                "map" : {
                   "https://github.com/noxxi/p5-scripts/blob/master/check-ssl-heartbleed.pl" : "http://bit.ly/1kWEGEz"
@@ -139,6 +142,7 @@
                "url" : "https://hashbang.ca/2014/04/08/recovering-from-heartbleed"
             },
             {
+               "author" : "timm_murray",
                "link" : "http://bit.ly/1kWEIMD",
                "tags" : [],
                "text" : "Timm Murray from the Wumpus Cave has a suggestion for you. Use NSS instead of OpenSSL.",
@@ -182,6 +186,7 @@
       {
          "entries" : [
             {
+               "author" : "dave_mitchell",
                "link" : "http://bit.ly/1kWEJ33",
                "tags" : [],
                "text" : "The report of Dave Mitchell.",
@@ -208,6 +213,7 @@
       {
          "entries" : [
             {
+               "author" : "timm_murray",
                "link" : "http://bit.ly/1kWEGV8",
                "tags" : [],
                "text" : "One hour presentation given by Timm Murray at the monthly meetings of the MadMongers in Madison, WI.",
@@ -229,6 +235,7 @@
                "url" : "http://p6weekly.wordpress.com/2014/04/07/2014-14-speshial-things/"
             },
             {
+               "author" : "jonathan_worthington",
                "link" : "http://bit.ly/1kWEHbr",
                "tags" : [],
                "text" : "Jonathan Worthington provides more details on the recent developments in Rakudo.",

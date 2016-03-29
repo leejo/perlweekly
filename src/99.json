@@ -68,6 +68,7 @@
                "url" : "http://blogs.perl.org/users/david_shultz/2013/06/introduction.html"
             },
             {
+               "author" : "rob_lauer",
                "link" : "http://bit.ly/11i1MOJ",
                "tags" : [],
                "text" : "It seems this is the week of backlash against 'modern perl' as Rob Lauer has also posted his notes on why he prefers POP5 (plain old Perl 5) over 'modern perl'. Now I understand how 'self flagellation' and 'blessing' have some historical correlation, but I am not sure we really need to suffer in order to write code. Your mileage may vary.",
@@ -141,6 +142,7 @@
       {
          "entries" : [
             {
+               "author" : "dave_mitchell",
                "link" : "http://bit.ly/13LReHk",
                "tags" : [],
                "text" : "The report of Dave Mitchell. Apparently he has used all the allocated hours (and money) from his previous grant. You will see a new grant request from him soon.",
@@ -215,6 +217,7 @@
                "url" : "http://www.shutterstock.com/blog/2013/06/yet-another-perl-conference-the-shutterstock-tech-team-goes-to-austin/"
             },
             {
+               "author" : "joel_berger",
                "link" : "http://bit.ly/11i1Q19",
                "tags" : [],
                "text" : "Joel Berger could not physically be present at YAPC::NA this year, but he was there virtually. You could do it too.",

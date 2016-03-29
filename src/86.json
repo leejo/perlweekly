@@ -115,6 +115,7 @@
       {
          "entries" : [
             {
+               "author" : "joel_berger",
                "link" : "http://bit.ly/XTvY10",
                "tags" : [],
                "text" : "Joel Berger professes his love for the ever-vigilant CPANtesters, as well as for a (relative) newcomer in the Open Source testing scene, Travis-CI, and narrates how they both helping him troubleshoot his spiffy Galileo CMS project.",
@@ -131,6 +132,7 @@
                "url" : "http://blogs.perl.org/users/ovid/2013/03/discoverable-tests-and-creating-testing-standards.html"
             },
             {
+               "author" : "david_golden",
                "link" : "http://bit.ly/XTvVlY",
                "tags" : [],
                "text" : "Some authors bundle POD tests in their distribution, which has little value  to the end-user. David Golden got tired of those, and introduces a new test harness that transparently skip those pesky tests.",
@@ -152,6 +154,7 @@
       {
          "entries" : [
             {
+               "author" : "david_golden",
                "link" : "http://bit.ly/YBs34K",
                "tags" : [],
                "text" : "Never underestimate the power of a well-placed \"thank you\".  David Golden shows how one can easily, and automatically, give credit to everyone who contribute to a distribution, with a little bit of Dist::Zilla help.",
@@ -160,6 +163,7 @@
                "url" : "http://www.dagolden.com/index.php/1921/how-im-using-distzilla-to-give-credit-to-contributors/"
             },
             {
+               "author" : "toby_inkster",
                "link" : "http://bit.ly/YBs34N",
                "tags" : [],
                "text" : "Toby Inkster proposes a new way to declare that a module would only run on certain platforms.",
@@ -168,6 +172,7 @@
                "url" : "http://blogs.perl.org/users/toby_inkster/2013/03/introducing-platform.html"
             },
             {
+               "author" : "brian_d_foy",
                "link" : "http://bit.ly/XTvVCg",
                "tags" : [],
                "text" : "How do you know when a CORE module is deprecated? brian d foy tells you where to look to figure it out.",
@@ -176,6 +181,7 @@
                "url" : "http://blogs.perl.org/users/brian_d_foy/2013/03/deprecated-modules-warn-when-they-are-used.html"
             },
             {
+               "author" : "sawyer_x",
                "link" : "http://bit.ly/YBs60d",
                "tags" : [],
                "text" : "Sawyer X's vouches that reading his blog entry will open your eyes to the wonderful world of deferred promises. I vow he's right.",

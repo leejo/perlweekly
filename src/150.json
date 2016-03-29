@@ -62,6 +62,7 @@
                "url" : "http://iinteractive.com/notebook/2014/06/05/yapc-training.html"
             },
             {
+               "author" : "yuki_kimoto",
                "link" : "http://bit.ly/1kZ7Z73",
                "tags" : [],
                "text" : "Yuki Kimoto releases a new version of GitPrep, the Perl-based GitHub-like repository service.",
@@ -70,6 +71,7 @@
                "url" : "http://blogs.perl.org/users/yuki_kimoto/2014/06/gitprep-18-is-released---public-key-authentication-support.html"
             },
             {
+               "author" : "salvador_fandino",
                "link" : "http://bit.ly/1kZ81vI",
                "tags" : [],
                "text" : "Hankering for conferences in exotic locations?  The Granada Perl Workshop is going to take place on Friday, June the 27th,  Salvador Fandino reminds us.",
@@ -132,6 +134,7 @@
       {
          "entries" : [
             {
+               "author" : "mike_friedman",
                "link" : "http://bit.ly/1kZ7ZnB",
                "tags" : [],
                "text" : "Perl 5.20 gives us a few more shiny tools to play with, but enabling them usually requires a line or two more of boilerplate code at the top of your files. Mike Friedman wants the former very much, but isn't too keen on the latter.",
@@ -148,6 +151,7 @@
                "url" : "http://leonerds-code.blogspot.ca/2014/06/listutil-additions-in-perl-520.html"
             },
             {
+               "author" : "steven_haryanto",
                "link" : "http://bit.ly/1kZ7ZnK",
                "tags" : [],
                "text" : "Steven Haryanto shares a few more tools useful for the scrubbing and clean-up the old releases of one's CPAN account.",
@@ -194,6 +198,7 @@
       {
          "entries" : [
             {
+               "author" : "stefan_hornburg",
                "link" : "http://bit.ly/1kZap5F",
                "tags" : [],
                "text" : "Stefan Hornburg (Racke) talks about Dancer and DBIx::Class. (35 min)",
@@ -210,6 +215,7 @@
                "url" : "http://perltv.org/v/csv-less-complicated"
             },
             {
+               "author" : "theo_van_hoesel",
                "link" : "http://bit.ly/1kZardO",
                "tags" : [],
                "text" : "Theo van Hoesel talks about math and how he extended Number::Fraction. (20 min)",

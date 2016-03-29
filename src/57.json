@@ -47,6 +47,7 @@
                "url" : "http://www.modernperlbooks.com/mt/2012/08/detecting-bots-and-spiders-with-plack-middleware.html"
             },
             {
+               "author" : "jeffrey_kegler",
                "link" : "http://bit.ly/Rcx93C",
                "tags" : [],
                "text" : "Jeffrey Kegler explains how Marpa parses arbitrary BNF which was not the case with traditional parsers.",
@@ -63,6 +64,7 @@
                "url" : "http://www.pal-blog.de/entwicklung/perl/2012/better-source-svn-client-side-precommit-hooks.html"
             },
             {
+               "author" : "neil_bowers",
                "link" : "http://bit.ly/SH02JA",
                "tags" : [],
                "text" : "While working on his review of modules for getting dependency information, Neil Bowers could not find any that was working the way he wanted. So he uploaded a new one. Now he has a lot more modules to review...",
@@ -92,6 +94,7 @@
                "url" : "http://blogs.perl.org/users/rockyb/2012/08/develtrepan-030-release.html"
             },
             {
+               "author" : "barbie",
                "link" : "http://bit.ly/PSd9Xc",
                "tags" : [],
                "text" : "use.perl.org was the old Perl blogging engine till it got shut down a few years ago. Barbie created a module that would be able to parse the old articles.",
@@ -147,6 +150,7 @@
       {
          "entries" : [
             {
+               "author" : "andrew_shitov",
                "link" : "http://bit.ly/SH6Tmb",
                "tags" : [],
                "text" : "Andrew Shitov is discussing some of the plans for next years YAPC::EU in Kiev.",
@@ -257,6 +261,7 @@
                "url" : "http://blogs.perl.org/users/theorbtwo/2012/08/post-yapc.html"
             },
             {
+               "author" : "sebastian_willing",
                "link" : "http://bit.ly/RlxaXh",
                "tags" : [],
                "text" : "by Sebastian Willing",
@@ -289,6 +294,7 @@
                "url" : "http://geekblog.oneandoneis2.org/index.php/2012/08/23/miss-me"
             },
             {
+               "author" : "thomas_klausner",
                "link" : "http://bit.ly/Oi3JRo",
                "tags" : [],
                "text" : "A bunch of things Thomas Klausner (domm) learned at YAPC.",
@@ -297,6 +303,7 @@
                "url" : "http://domm.plix.at/perl/2012_08_23_things_i_learned_at_yapc_europe_2012.html"
             },
             {
+               "author" : "alberto_simoes",
                "link" : "http://bit.ly/SDTk78",
                "tags" : [],
                "text" : "Alberto Simoes seemed to have a bad day. Or three.",
@@ -319,6 +326,7 @@
       {
          "entries" : [
             {
+               "author" : "mark_keating",
                "link" : "http://bit.ly/NSIPcn",
                "tags" : [],
                "text" : "A detailed report full of pictures by Mark Keating.",

@@ -71,6 +71,7 @@
       {
          "entries" : [
             {
+               "author" : "dave_cross",
                "link" : "http://bit.ly/XwYpgy",
                "tags" : [],
                "text" : "Dave Cross has been active on the biggest Perl group on LinkedIN and once in a while he explains what issues he notices. This time he is shocked by the books people recommend on the LinkedIN forum.",
@@ -79,6 +80,7 @@
                "url" : "http://perlhacks.com/2013/02/perl-books-2/"
             },
             {
+               "author" : "david_golden",
                "link" : "http://bit.ly/UWpwXV",
                "tags" : [
                   "Path::Tiny",
@@ -109,6 +111,7 @@
       {
          "entries" : [
             {
+               "author" : "david_mertens",
                "link" : "http://bit.ly/UWpxem",
                "tags" : [],
                "text" : "If the above descriptions did not help, then try how David Mertens explains Play Perl.",
@@ -117,6 +120,7 @@
                "url" : "http://blogs.perl.org/users/david_mertens/2013/02/i-3-play-perl.html"
             },
             {
+               "author" : "brian_d_foy",
                "link" : "http://bit.ly/XwYsbY",
                "tags" : [],
                "text" : "After a long break a new challenge from brian d foy!",
@@ -130,6 +134,7 @@
       {
          "entries" : [
             {
+               "author" : "ricardo_signes",
                "link" : "http://bit.ly/UWpzmr",
                "tags" : [],
                "text" : "... for Ricardo Signes, the current Pumpking of Perl 5.",

@@ -3,6 +3,7 @@
       {
          "entries" : [
             {
+               "author" : "olaf_alders",
                "link" : "http://bit.ly/UDBwuR",
                "tags" : [],
                "text" : "In case you notice problems with Meta CPAN today, or in the coming days, please be patient, and read the note by Olaf Alders.",
@@ -16,6 +17,7 @@
       {
          "entries" : [
             {
+               "author" : "nitish_bezzala",
                "link" : "http://bit.ly/Vem8CL",
                "tags" : [],
                "text" : "Exactly what it says on the tin. Nitish Bezzala shows the command line parameters for Starman and the VirtualHost entry of the Apache configuration file.",
@@ -92,6 +94,7 @@
       {
          "entries" : [
             {
+               "author" : "steven_haryanto",
                "link" : "http://bit.ly/UDBvHn",
                "tags" : [
                   "Chart::Lines"

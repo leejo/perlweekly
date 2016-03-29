@@ -33,6 +33,7 @@
       {
          "entries" : [
             {
+               "author" : "viacheslav_tykhanovskyi",
                "link" : "http://bit.ly/V3hgo3",
                "tags" : [
                   "Gtk3::WebKit",
@@ -62,6 +63,7 @@
       {
          "entries" : [
             {
+               "author" : "tudor_constantin",
                "link" : "http://bit.ly/WIS6va",
                "tags" : [],
                "text" : "Do you use Perl Monks? What do you think about the look-and feel? Is this something you would be happy to use to show how nice and modern is Perl? Tudor Constantin thought otherwise and came up a new design based on Twitter Bootstrap. I am not sure it will make a difference, but I think it would be good to repaint the Monastery.",
@@ -75,6 +77,7 @@
       {
          "entries" : [
             {
+               "author" : "joel_berger",
                "link" : "http://bit.ly/V7wDvD",
                "tags" : [
                   "DBIx::Class",
@@ -159,6 +162,7 @@
       {
          "entries" : [
             {
+               "author" : "thomas_klausner",
                "link" : "http://bit.ly/U3eGKg",
                "tags" : [],
                "text" : "Thomas Klausner (Domm) describes how did APW go for him. There were 25 people, some of them new to the Vienna Perl Mongers. It seems they had fun, which is not surprising to me, and they plan to do it again next year.",
@@ -167,6 +171,7 @@
                "url" : "http://domm.plix.at/perl/2012_11_austrian_perl_workshop.html"
             },
             {
+               "author" : "dave_cross",
                "link" : "http://bit.ly/QFCOWp",
                "tags" : [],
                "text" : "Dave Cross gave 3 talks at the London Perl Workshop.",
@@ -175,6 +180,7 @@
                "url" : "http://perlhacks.com/2012/11/speaking-at-the-lpw/"
             },
             {
+               "author" : "tudor_constantin",
                "link" : "http://bit.ly/S6JRo7",
                "tags" : [],
                "text" : "Tudor Constantin was also in London.",

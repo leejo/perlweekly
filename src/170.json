@@ -29,6 +29,7 @@
                "url" : "http://rjbs.manxome.org/rubric/entry/2061"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/1wAKefF",
                "map" : {
                   "http://sco.perlmaven.com/" : "http://bit.ly/1wAKefE"
@@ -68,6 +69,7 @@
       {
          "entries" : [
             {
+               "author" : "paul_johnson",
                "link" : "http://bit.ly/1wAKfjJ",
                "tags" : [],
                "text" : "Videos from the recent Austrian Perl workshop are now on youtube. See Marko Jozic talking about Bootstrap and Dancer 2 for newbies; Tim Bunce on Devel::NYTProf; Stefan Seifert on Inline::Perl5; Paul Johnson on Docker; Lars Dieckow on HTTP tricks, and some guy called Larry.",
@@ -76,6 +78,7 @@
                "url" : "https://www.youtube.com/channel/UCB9cjCMJPZRJrYyOw0Wo-oQ"
             },
             {
+               "author" : "paul_evans",
                "link" : "http://bit.ly/1wAKfjL",
                "map" : {
                   "https://metacpan.org/pod/Future" : "http://bit.ly/1wAKfjK"
@@ -130,6 +133,7 @@
                "url" : "https://metacpan.org/pod/release/ABIGAIL/perl-5.21.5/pod/perldelta.pod"
             },
             {
+               "author" : "paul_johnson",
                "link" : "http://bit.ly/1wAKfA4",
                "map" : {
                   "http://markmail.org/message/vooz7qqlm6b23hy7#query:+page:1+mid:o7d5sxnydya7bwvv+state:results" : "http://bit.ly/1wAKfA2"
@@ -141,6 +145,7 @@
                "url" : "https://twitter.com/OvidPerl/status/524669894710013952"
             },
             {
+               "author" : "david_farrell",
                "link" : "http://bit.ly/1wAKew6",
                "tags" : [],
                "text" : "David Farrell looks at some of the ways you can use the <tt>split()</tt> built-in.",
@@ -149,6 +154,7 @@
                "url" : "http://perltricks.com/article/121/2014/10/24/Perl-s-versatile-split-function"
             },
             {
+               "author" : "brian_d_foy",
                "link" : "http://bit.ly/1wAKfA6",
                "tags" : [],
                "text" : "brian d foy shows how you can use <i>computed labels</i> with Perl 5.18+, letting you write <tt>next $label;</tt>.",
@@ -204,6 +210,7 @@
                "url" : "http://paperity.org/p/41884691/the-bio-community-perl-toolkit-for-microbial-ecology"
             },
             {
+               "author" : "matt_trout",
                "link" : "http://bit.ly/1wAKfQx",
                "map" : {
                   "https://gratipay.com/shadowcat_mst/" : "http://bit.ly/1wAKewa",
@@ -217,6 +224,7 @@
                "url" : "http://devblog.nestoria.com/post/100849547833/module-of-the-month-october-2014-role-tiny"
             },
             {
+               "author" : "david_farrell",
                "link" : "http://bit.ly/1wAKewe",
                "map" : {
                   "https://github.com/yuki24/did_you_mean" : "http://bit.ly/1wAKfQB",
@@ -229,6 +237,7 @@
                "url" : "https://metacpan.org/pod/Devel::DidYouMean"
             },
             {
+               "author" : "leon_timmermans",
                "link" : "http://bit.ly/1wAKfQC",
                "map" : {
                   "https://metacpan.org/pod/File::Slurp" : "http://bit.ly/1wAKfQF",

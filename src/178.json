@@ -197,6 +197,7 @@
                "url" : "http://inline.ouistreet.com/node/u2gc.html"
             },
             {
+               "author" : "dave_mitchell",
                "tags" : [],
                "text" : "Dave Mitchell's monthly report for his work on the Perl 5 core, funded by a grant. The main item of note was his awesome work on a <a href=\"http://www.nntp.perl.org/group/perl.perl5.porters/2014/11/msg222802.html\">benchmarking tool</a>.",
                "title" : "Maintaining the Perl 5 Core",
@@ -237,6 +238,7 @@
                "url" : "http://advent.perldancer.org/2014"
             },
             {
+               "author" : "matt_trout",
                "tags" : [],
                "text" : "Five more mini reviews from Matt Trout: <a href=\"http://shadow.cat/blog/matt-s-trout/mstpan-11/\">Distribution building</a>, <a href=\"http://shadow.cat/blog/matt-s-trout/mstpan-12/\">Object orientation</a>, <a href=\"http://shadow.cat/blog/matt-s-trout/mstpan-13/\">SOAP</a>, <a href=\"http://shadow.cat/blog/matt-s-trout/mstpan-14/\">Exporting</a>, <a href=\"http://shadow.cat/blog/matt-s-trout/mstpan-15/\">Email</a>.",
                "title" : "mstpan",

@@ -30,6 +30,7 @@
       {
          "entries" : [
             {
+               "author" : "jeffrey_kegler",
                "link" : "http://bit.ly/14CmcCl",
                "tags" : [],
                "text" : "Jeffrey Kegler helps us understand Victorian English using Perl and Marpa.",
@@ -38,6 +39,7 @@
                "url" : "http://jeffreykegler.github.io/Ocean-of-Awareness-blog/individual/2013/07/lovelace.html"
             },
             {
+               "author" : "david_farrell",
                "link" : "http://bit.ly/12f03u5",
                "tags" : [],
                "text" : "Article by David Farrell",
@@ -51,6 +53,7 @@
       {
          "entries" : [
             {
+               "author" : "david_farrell",
                "link" : "http://bit.ly/12f04OS",
                "tags" : [],
                "text" : "David Farrell (sillymoose) asked the readers to help him with the list for an upcoming article.",
@@ -140,6 +143,7 @@
       {
          "entries" : [
             {
+               "author" : "sebastian_willing",
                "link" : "http://bit.ly/12f055e",
                "tags" : [],
                "text" : "Would you like to have a Perl-based blog engine? Sebastian Willing shares his experience setting up MovableType on a shared hosting account.",
@@ -269,6 +273,7 @@
       {
          "entries" : [
             {
+               "author" : "ricardo_signes",
                "link" : "http://bit.ly/14CmdpI",
                "tags" : [],
                "text" : "Better late than never. Ricardo Signes posted his experience at YAPC::NA that was held in Austin, TX a month ago.",
@@ -277,6 +282,7 @@
                "url" : "http://rjbs.manxome.org/rubric/entry/1994"
             },
             {
+               "author" : "barbie",
                "link" : "http://bit.ly/12f05Cj",
                "tags" : [],
                "text" : "Barbie is doing his regular follow-up survey. Unfortunately the response rate was quite low this year.",

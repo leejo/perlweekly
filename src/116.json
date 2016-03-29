@@ -35,6 +35,7 @@
                "url" : "http://jmorano.moretrix.com/2013/10/google-geochart-json-perl/"
             },
             {
+               "author" : "yanick_champoux",
                "link" : "http://bit.ly/18dhQ7j",
                "tags" : [],
                "text" : "Oozie is a workflow scheduler for Hadoop that defines its workflows using a horrific XML dialect. Yanick Champoux took his Template::Caribou for a ride to make the XML behave.",
@@ -48,6 +49,7 @@
       {
          "entries" : [
             {
+               "author" : "timm_murray",
                "link" : "http://bit.ly/19zrZtC",
                "tags" : [],
                "text" : "Parsing the error messages from a test script might be difficult as those include free text and were designed to be read by humans, not by computers. OTOH if you can get a well formatted version of this output then it will be possible and even easy to write a parser for them. This is what came out of the Wumpus Cave of Timm Murray.",
@@ -56,6 +58,7 @@
                "url" : "http://www.wumpus-cave.net/2013/10/07/underappreciated-perl-code-taps-yamlish-syntax/"
             },
             {
+               "author" : "david_cantrell",
                "link" : "http://bit.ly/19zs2p6",
                "tags" : [],
                "text" : "I did not have time to listen to the actual podcast yet, but what David Cantrell writes about the distinction between Quality Control and Quality Assurance is interesting.",
@@ -77,6 +80,7 @@
       {
          "entries" : [
             {
+               "author" : "rob_hoelz",
                "link" : "http://bit.ly/19zs2pm",
                "map" : {
                   "http://blogs.perl.org/users/hoelzro/2013/10/perl-5-internals---part-four.html" : "http://bit.ly/18dhQ7s"
@@ -88,6 +92,7 @@
                "url" : "http://hoelz.ro/blog/perl-5-internals-part-four"
             },
             {
+               "author" : "damian_conway",
                "link" : "http://bit.ly/19zs00J",
                "tags" : [],
                "text" : "Tom Christiansen started discussing the idea to create a set of Perl::Critic rules that will cover the recommendations of the Camel book (aka. Programming Perl). In case you don't know, Perl::Critic is the implementation of the recommendation from the book 'Perl Best Practices' written by Damian Conway. It is extendable and can server as a great tool to make sure your code follows recommended practices.",
@@ -134,6 +139,7 @@
                "url" : "http://www.dagolden.com/index.php/2191/real-versions-on-cpan/"
             },
             {
+               "author" : "david_golden",
                "link" : "http://bit.ly/18dhSMp",
                "tags" : [],
                "text" : "Apparently David Golden was on a roll checking CPAN. What is totally unclear to me is why do those two distribution need so many packages (modules)?",
@@ -147,6 +153,7 @@
       {
          "entries" : [
             {
+               "author" : "jonathan_worthington",
                "link" : "http://bit.ly/19zs2W8",
                "tags" : [],
                "text" : "Jonathan Worthington offers another peek into the labs of Perl 6.",
@@ -173,6 +180,7 @@
       {
          "entries" : [
             {
+               "author" : "tudor_constantin",
                "link" : "http://bit.ly/18dhQEu",
                "tags" : [],
                "text" : "Tudor Constantin reveals details about the most sacred. His salary. But not only that. He runs a comparison of income and cost of living in a couple of cities.",

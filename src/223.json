@@ -152,6 +152,7 @@
       {
          "entries" : [
             {
+               "author" : "will_braswell",
                "tags" : [],
                "text" : "Will Braswell has delivered the first report on working being done to improve the user documentation for <a href=\"http://rperl.org\">RPerl</a>.",
                "title" : "Grant Report : RPerl User Documentation",

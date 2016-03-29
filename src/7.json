@@ -3,6 +3,7 @@
       {
          "entries" : [
             {
+               "author" : "flavio_poletti",
                "tags" : [
                   "DotCloud",
                   "DotCloud::Environment"
@@ -91,6 +92,7 @@
                "url" : "http://www.perldition.org/articles/Parameterized%20Roles%20with%20MooseX::Declare.pod.1"
             },
             {
+               "author" : "yanick_champoux",
                "tags" : [
                   "Dancer",
                   "Dancer::Plugin::Cache::CHI",
@@ -113,6 +115,7 @@
                "url" : "http://markam.posterous.com/simple-mojolicious-rss-feed"
             },
             {
+               "author" : "peter_thoeny",
                "tags" : [
                   "Proc::Daemon",
                   "IO::CaptureOutput"
@@ -123,6 +126,7 @@
                "url" : "http://twiki.org/cgi-bin/view/Blog/BlogEntry201109x2"
             },
             {
+               "author" : "thomas_fahle",
                "tags" : [
                   "Memory::Usage"
                ],
@@ -137,6 +141,7 @@
       {
          "entries" : [
             {
+               "author" : "patrick_michaud",
                "tags" : [
                   "Perl 6",
                   "Rakudo"

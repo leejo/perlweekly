@@ -111,6 +111,7 @@
       {
          "entries" : [
             {
+               "author" : "mike_friedman",
                "link" : "http://bit.ly/1qjslzS",
                "tags" : [],
                "text" : "Mike Friedman introduces his new module Dist::Zilla::Plugin::UploadToStratopan that allows you to automatically upload new private releases to Stratopan, the cloud-based private CPAN.",
@@ -119,6 +120,7 @@
                "url" : "http://friedo.com/blog/2014/06/automating-stratopan-releases"
             },
             {
+               "author" : "david_farrell",
                "link" : "http://bit.ly/1qjslzT",
                "tags" : [],
                "text" : "David Farrell explains what kind of file are in a perl distribution.",
@@ -145,6 +147,7 @@
       {
          "entries" : [
             {
+               "author" : "jonathan_worthington",
                "link" : "http://bit.ly/1qjslzX",
                "tags" : [],
                "text" : "Bored by the same old programming stuff? How about taking a walk on the reactive programming side, in Perl 6, with Jonathan Worthington?",

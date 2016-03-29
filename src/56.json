@@ -90,6 +90,7 @@
       {
          "entries" : [
             {
+               "author" : "dave_cross",
                "link" : "http://bit.ly/NNlI5o",
                "tags" : [],
                "text" : "Kirk Kimmel build a small custom search using Google that will try to improve your perl related searches. Check also the comments where Dave Cross linked to his solution.",
@@ -194,6 +195,7 @@
       {
          "entries" : [
             {
+               "author" : "moritz_lenz",
                "link" : "http://bit.ly/QRw80D",
                "tags" : [],
                "text" : "A report from the event by Moritz Lenz.",

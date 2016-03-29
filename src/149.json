@@ -17,6 +17,7 @@
       {
          "entries" : [
             {
+               "author" : "barbie",
                "link" : "http://bit.ly/1hOS5fM",
                "map" : {
                   "https://twitter.com/cpantesters" : "http://bit.ly/1hOS3Ep",
@@ -35,6 +36,7 @@
       {
          "entries" : [
             {
+               "author" : "david_farrell",
                "link" : "http://bit.ly/1hOS3EH",
                "map" : {
                   "http://perltricks.com/article/92/2014/5/27/Perl-v5-20-what-you-need-to-know" : "http://bit.ly/1hOS5wa"
@@ -54,6 +56,7 @@
                "url" : "http://blogs.perl.org/users/kmx/2014/06/strawberry-perl-52001-released.html"
             },
             {
+               "author" : "sebastian_riedel",
                "link" : "http://bit.ly/1hOS5wh",
                "tags" : [],
                "text" : "Right on the heels of the first Mojolicious conference (Mojoconf) Sebastian Riedel announced the new version.",
@@ -96,6 +99,7 @@
       {
          "entries" : [
             {
+               "author" : "rocky_bernstein",
                "link" : "http://bit.ly/1hOS5ME",
                "tags" : [],
                "text" : "Listing names of functions while debugging by Rocky Bernstein.",
@@ -125,6 +129,7 @@
                "url" : "http://jjnapiorkowski.typepad.com/modern-perl/2014/05/perl-catalyst-concepts-components-and-use-cases.html"
             },
             {
+               "author" : "joel_berger",
                "link" : "http://bit.ly/1hOS634",
                "tags" : [],
                "text" : "Joel Berger attended the first Mojoconf.",
@@ -159,6 +164,7 @@
                "url" : "http://perltv.org/v/database-unit-testing-with-pgtap"
             },
             {
+               "author" : "yanick_champoux",
                "link" : "http://bit.ly/1hOS639",
                "tags" : [],
                "text" : "A 50 min introduction to Perl Dancer, by Yanick Champoux, the other editor of the Perl Weekly.",
@@ -175,6 +181,7 @@
                "url" : "http://perltv.org/v/perl-data-language"
             },
             {
+               "author" : "sawyer_x",
                "link" : "http://bit.ly/1hOS4s4",
                "tags" : [],
                "text" : "Sawyer X, on the state of the dance floor these days. 20 min talk",
@@ -217,6 +224,7 @@
       {
          "entries" : [
             {
+               "author" : "toby_inkster",
                "link" : "http://bit.ly/1hOS7nD",
                "tags" : [],
                "text" : "The monthly report about Moose, Mouse, Moo, p5-mop, and a few other OOP related things by Toby Inkster.",
@@ -230,6 +238,7 @@
       {
          "entries" : [
             {
+               "author" : "dave_rolsky",
                "link" : "http://bit.ly/1hOS7nE",
                "tags" : [],
                "text" : "Dave Rolsky is going to give an introduction to Moose at YAPC::NA. I strongly recommend his course!",
