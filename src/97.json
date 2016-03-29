@@ -122,6 +122,7 @@
                "url" : "http://blogs.perl.org/users/jeff_thalhammer1/2013/05/visualizing-dependencies-on-stratopan.html"
             },
             {
+               "author" : "thomas_klausner",
                "link" : "",
                "tags" : [],
                "text" : "So the smartmatch has been sort of deprecated in perl 5.18. Turns out that  the official documentation showing how to silence its warnings has a small error. domm shows us the corrected version (alongside some legit and sane uses of smartmatch).",

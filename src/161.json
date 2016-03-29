@@ -154,6 +154,7 @@
                "url" : "http://richelberger.com/2014/08/21/mock-testing-net-gnats/"
             },
             {
+               "author" : "yanick_champoux",
                "link" : "http://bit.ly/1t5BOMZ",
                "tags" : [],
                "text" : "Yanick compares a few of the modules available to test Dancer/Dancer2 applications.",

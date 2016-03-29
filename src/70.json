@@ -3,6 +3,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/UKJW1h",
                "tags" : [],
                "text" : "This application (will) help you learn or improve your knowledge of Regular Expression. It has (or will have) a tutorial, a cheat-sheet and a quiz. Currently available for Android, but once it has reasonable content, I am planning to release it to the iPhone as well.",
@@ -16,6 +17,7 @@
       {
          "entries" : [
             {
+               "author" : "lukas_mai",
                "link" : "http://bit.ly/YbZY8Q",
                "tags" : [
                   "Quote::Code",

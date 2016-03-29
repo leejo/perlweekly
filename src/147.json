@@ -3,6 +3,7 @@
       {
          "entries" : [
             {
+               "author" : "curtis_ovid_poe",
                "link" : "http://bit.ly/1j11Vuf",
                "map" : {
                   "http://www.amazon.com/Beginning-Perl-Curtis-Poe/dp/1118013840" : "http://amzn.to/1j11Vu5",
@@ -47,6 +48,7 @@
                "url" : "http://www.nntp.perl.org/group/perl.perl5.porters/2014/05/msg215479.html"
             },
             {
+               "author" : "thomas_klausner",
                "link" : "http://bit.ly/1j11VdJ",
                "tags" : [],
                "text" : "YAPC::EU is coming fastest than you might realize. If you're thinking about  presenting there, domm reminds us, now is the time to submit your talk.",

@@ -76,6 +76,7 @@
       {
          "entries" : [
             {
+               "author" : "peteris_krumins",
                "link" : "http://bit.ly/1q8JQEl",
                "tags" : [],
                "text" : "the site's statistics, he draws a list of his best hits, as well as his own favorite entries.",
@@ -209,6 +210,7 @@
                "url" : "http://blogs.perl.org/users/steven_haryanto/2014/07/benchmarking-several-ascii-table-generator-modules.html"
             },
             {
+               "author" : "yanick_champoux",
                "link" : "http://bit.ly/1q8JSMz",
                "tags" : [],
                "text" : "Yanick plays around with a proxying service to manage his herd of sporadically-used toy web applications.",
@@ -217,6 +219,7 @@
                "url" : "http://techblog.babyl.ca/entry/ringleader"
             },
             {
+               "author" : "david_farrell",
                "link" : "http://bit.ly/1q8JRbe",
                "tags" : [],
                "text" : "\"Parse HTML? Easy, let me write a regex!\" NO! Stop right there, and go read David Farell's tricks and recommendations to sanely parse HTML instead. Trust me, you'll thank me later.",

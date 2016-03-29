@@ -93,6 +93,7 @@
                "url" : "http://babyl.dyndns.org/techblog/entry/caribou-update"
             },
             {
+               "author" : "thomas_klausner",
                "link" : "http://bit.ly/YPrDJW",
                "tags" : [],
                "text" : "domm walks us through a bug-hunt through Module::ExtractUse's codebase. ",
@@ -215,6 +216,7 @@
       {
          "entries" : [
             {
+               "author" : "moritz_lenz",
                "link" : "http://bit.ly/XO51Lr",
                "tags" : [],
                "text" : "",

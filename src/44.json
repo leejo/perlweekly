@@ -27,6 +27,7 @@
                "url" : "http://blog.bestpractical.com/2012/05/security-vulnerabilities-in-rt.html"
             },
             {
+               "author" : "sawyer_x",
                "link" : "http://bit.ly/KW5IsZ",
                "tags" : [],
                "text" : "Assaf Gordon created a nice look of a Dancer based web site using the Bootstrap library. See the blog of Sawyer for the links.",
@@ -209,6 +210,7 @@
       {
          "entries" : [
             {
+               "author" : "brian_d_foy",
                "link" : "http://bit.ly/KmnTuQ",
                "tags" : [],
                "text" : "I love the Animate videos of RSA, both for their content and the presentation. In this one they even mention the Perl network of people. Thanks to Philip Durbin for pointing it out.",

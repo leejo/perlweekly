@@ -192,6 +192,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/wSaYxN",
                "tags" : [],
                "text" : "This is the first public release of this experimental package. The objective is to create a package that can be used for development or on a virtual host to develop and deploy applications written in Perl. It will include every important module that regular command line or web applications might need. Your feedback would be highly appreciated.",

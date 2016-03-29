@@ -227,6 +227,7 @@
                "url" : "http://babyl.dyndns.org/techblog/entry/mutating-the-zilla"
             },
             {
+               "author" : "dominic_humpries",
                "link" : "http://bit.ly/HKw4x4",
                "tags" : [],
                "text" : "",
@@ -266,6 +267,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/H6qmcj",
                "tags" : [],
                "text" : "I am running two sets of the shortened, 2-days version of the training class.",
@@ -279,6 +281,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/HcXjC5",
                "tags" : [],
                "text" : "SVG allows you to create nice and scalable graphics using Perl. I wanted to play a bit with it and while reading the documentation I found some issues. So now I am a co-maintainer of the module. You are more than welcome to send bug reports, failing tests and fixes. You can also see a few simple examples in the blog.",
@@ -287,6 +290,7 @@
                "url" : "http://szabgab.com/scalable-vector-graphics-with-perl.html"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/HzMIzd",
                "tags" : [],
                "text" : "A simple introduction to creating modules that can export functions.",

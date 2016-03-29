@@ -137,6 +137,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/zAgRtb",
                "tags" : [],
                "text" : "This error message is one of the most confusing ones to beginners. In this article I try to explain what should a beginner understand from it.",

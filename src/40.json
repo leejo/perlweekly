@@ -179,6 +179,7 @@
       {
          "entries" : [
             {
+               "author" : "carl_masak",
                "link" : "http://bit.ly/JuQdKz",
                "tags" : [],
                "text" : "Carl Mäsak breaks a month of blog-silence and writes about the Perl 6 hackathon in Oslo from his point of view.",
@@ -250,6 +251,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/JiXCLv",
                "tags" : [],
                "text" : "Part of the Perl Maven tutorial/book.",
@@ -258,6 +260,7 @@
                "url" : "http://szabgab.com/splice-to-slice-and-dice-arrays-in-perl.html"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/Koc4k6",
                "tags" : [],
                "text" : "Listing the pages and comparing number of followers. If you are on either of those social networks, you might want to check out what pages you could follow.",

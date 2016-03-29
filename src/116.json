@@ -14,6 +14,7 @@
                "url" : "http://peatix.com/event/20829/view"
             },
             {
+               "author" : "thomas_klausner",
                "link" : "http://bit.ly/18dhPQY",
                "tags" : [],
                "text" : "Which is less than 3 weeks away!",
@@ -131,6 +132,7 @@
       {
          "entries" : [
             {
+               "author" : "david_golden",
                "link" : "http://bit.ly/19zs2FR",
                "tags" : [],
                "text" : "Do you know how should a version number on CPAN look like? Not? Don't worry. Apparently there are a few other people who have very interesting ideas about how version numbers should look like.",
@@ -194,6 +196,7 @@
       {
          "entries" : [
             {
+               "author" : "larry_wall",
                "link" : "http://bit.ly/19MskwL",
                "tags" : [],
                "text" : "Did your study of linguistics play a role in Perl's development? - How are human languages and programming languages similar?",

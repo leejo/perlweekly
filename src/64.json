@@ -47,6 +47,7 @@
       {
          "entries" : [
             {
+               "author" : "dave_rolsky",
                "link" : "http://bit.ly/X2jHoh",
                "tags" : [],
                "text" : "So what do you say, should Perl projects have a standard style? Should they pick one from several standard styles? Is it OK to use your personal coding style in an Open source project? What about within a company?",
@@ -137,6 +138,7 @@
                "url" : "http://blogs.perl.org/users/ovid/2012/10/mojolicious-an-unexpected-result.html"
             },
             {
+               "author" : "sawyer_x",
                "link" : "http://bit.ly/QguYwt",
                "tags" : [],
                "text" : "In his response, Sawyer explains why he dislikes the idea of no-dependency. How, he thinks, it strengthens the 'Don't use CPAN here' policy of some companies.",

@@ -100,6 +100,7 @@
                "url" : "http://blog.cpantesters.org/diary/150"
             },
             {
+               "author" : "ricardo_signes",
                "link" : "http://bit.ly/ST5EmV",
                "tags" : [],
                "text" : "An interesting look into the billing system of (I think) Pobox. What do you do when at mid-term - as it is always the case - a client wants to change her subscription. Do you reduce the left over paid period? Do you charge the extra for the left over period? Do yo charge for a full period taking in account the money still left from the other subscription? And how do you test it? Without sending bills?",
@@ -124,6 +125,7 @@
                "url" : "http://blog.afoolishmanifesto.com/archives/1758"
             },
             {
+               "author" : "thomas_klausner",
                "link" : "http://bit.ly/Qjhsf4",
                "tags" : [],
                "text" : "Blio is the 'blogging engine' of domm. It does not have its own web site yet(!), so the new features are listed on domm's web site created with Blio.",
@@ -268,6 +270,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/STbbtu",
                "tags" : [],
                "text" : "This is the list of basically <b>all</b> the Perl-based open source products I could find. I used Alexa for ordering them, but that's not the point. The point is to understand the types of products built with Perl and if they are backed by one or more businesses or if they are volunteer based.",

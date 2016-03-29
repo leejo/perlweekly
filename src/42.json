@@ -130,6 +130,7 @@
                "url" : "http://blogs.perl.org/users/joel_berger/2012/05/on-cpan-namespaces-urban-namespace-planning.html"
             },
             {
+               "author" : "thomas_klausner",
                "link" : "http://bit.ly/Jaae5s",
                "tags" : [
                   "Cache::Memcached::Fast",
@@ -214,6 +215,7 @@
       {
          "entries" : [
             {
+               "author" : "damian_conway",
                "link" : "http://bit.ly/KBe5fu",
                "tags" : [],
                "text" : "Temporally Quaquaversal Virtual Nanomachine Programming In Multiple Topologically Connected Quantum-Relativistic Parallel Spacetimes...Made Easy!",

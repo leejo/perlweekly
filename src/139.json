@@ -11,6 +11,7 @@
                "url" : "http://blogs.perl.org/users/book/2014/03/perl-qa-hackathon-2014-in-lyon-is-over.html"
             },
             {
+               "author" : "barbie",
                "link" : "http://bit.ly/1m1NSrU",
                "tags" : [],
                "text" : "",
@@ -19,6 +20,7 @@
                "url" : "http://barbie.missbarbell.co.uk/diary/305"
             },
             {
+               "author" : "curtis_ovid_poe",
                "link" : "http://bit.ly/1m1NREq",
                "tags" : [],
                "text" : "",
@@ -43,6 +45,7 @@
                "url" : "http://rjbs.manxome.org/rubric/entry/2040"
             },
             {
+               "author" : "olaf_alders",
                "link" : "http://bit.ly/1m1NREt",
                "tags" : [],
                "text" : "",
@@ -59,6 +62,7 @@
                "url" : "http://www.dagolden.com/index.php/2341/perl-qa-hackathon-2014-report/"
             },
             {
+               "author" : "paul_johnson",
                "link" : "http://bit.ly/1m1NSs5",
                "tags" : [],
                "text" : "",
@@ -67,6 +71,7 @@
                "url" : "http://blogs.perl.org/users/paul_johnson/2014/03/qa-hackathon-2014.html"
             },
             {
+               "author" : "kenichi_ishigaki",
                "link" : "http://bit.ly/1m1NREx",
                "tags" : [],
                "text" : "",
@@ -75,6 +80,7 @@
                "url" : "http://blogs.perl.org/users/kenichi_ishigaki/2014/03/qa-hackathon-2014-and-cpants.html"
             },
             {
+               "author" : "philippe_bruhat",
                "link" : "http://bit.ly/1m1NSs2",
                "tags" : [],
                "text" : "The side of the organizers.",
@@ -101,6 +107,7 @@
       {
          "entries" : [
             {
+               "author" : "tokuhiro_matsuno",
                "link" : "http://bit.ly/1m1NSIo",
                "tags" : [],
                "text" : "",
@@ -196,6 +203,7 @@
       {
          "entries" : [
             {
+               "author" : "timotimo",
                "link" : "http://bit.ly/1m1NRV8",
                "tags" : [],
                "text" : "The Perl 6 weekly blog",
@@ -212,6 +220,7 @@
                "url" : "http://ttjjss.wordpress.com/2014/03/23/perl-6-on-steroids-through-the-window/"
             },
             {
+               "author" : "carl_masak",
                "link" : "http://bit.ly/1m1NUQz",
                "tags" : [],
                "text" : "Carl Mäsak shows how to parse Python using Perl 6.",

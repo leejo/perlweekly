@@ -232,6 +232,7 @@
                "url" : "http://blogs.perl.org/users/rlauer/2013/05/last-in-the-5-part-series.html"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/19gszxK",
                "tags" : [],
                "text" : "There are many ways to measure the 'market share' or 'mind share' of a programming language and the dynamics between languages. I tried to see how many people search for the respective terms and what are the trends in relative volume of searches.",

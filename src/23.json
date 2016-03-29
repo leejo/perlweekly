@@ -66,6 +66,7 @@
                "url" : "http://blogs.perl.org/users/shlomi_fish/2011/12/breaking-the-perl-debugger-for-fun-and-profit.html"
             },
             {
+               "author" : "alberto_simoes",
                "link" : "http://bit.ly/uwatUx",
                "tags" : [],
                "text" : "Alberto Simões writes about his new module that is supposed to do language detection. And I was just wondering recently how could I do that automatically.",

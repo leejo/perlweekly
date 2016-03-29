@@ -32,6 +32,7 @@
                "url" : "http://www.newsfactor.com/news/Switches-that-Help-Predict-the-Future/story.xhtml?story_id=003000B2G9MI"
             },
             {
+               "author" : "alberto_simoes",
                "link" : "http://bit.ly/yoOTvl",
                "tags" : [],
                "text" : "Alberto Simões announced 3 grant proposals that were submitted to TPF. Please check them and comment on them.",
@@ -184,6 +185,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/w2qaBf",
                "tags" : [],
                "text" : "This is one of the first entries of the Perl Tutorial that gives some simple ideas how to debug Perl code.",
@@ -192,6 +194,7 @@
                "url" : "http://szabgab.com/debugging-perl-scripts.html"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/wTaVBI",
                "tags" : [],
                "text" : "While in most of the Perl tutorial I deal with scripts, here I give a small glimpse into the world of one-liners.",
@@ -200,6 +203,7 @@
                "url" : "http://szabgab.com/perl-on-the-command-line.html"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/xWDHCQ",
                "tags" : [],
                "text" : "perlbrew? CPAN.pm ? cpanm? apt-get?",

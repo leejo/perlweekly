@@ -38,6 +38,7 @@
                "url" : "http://www.modernperlbooks.com/mt/2014/05/modern-perl-2014-electronic-editions-released.html"
             },
             {
+               "author" : "thomas_klausner",
                "link" : "http://bit.ly/1kZ80YS",
                "tags" : [],
                "text" : "Not anything planned for this October? How about visiting the beautiful city of Salzburg, and attend the Austrian Perl Workshop?",
@@ -103,6 +104,7 @@
                "url" : "http://blogs.perl.org/users/joe_mcmahon1/2014/06/what-you-didnt-learn-in-college-because-you-didnt-use-mainframes.html"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/1kZ81vW",
                "tags" : [],
                "text" : "Gabor has reasons to celebrate: Maven Pro is now one year old!",

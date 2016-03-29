@@ -55,6 +55,7 @@
                "url" : "http://www.learning-perl.com/2014/07/formats/"
             },
             {
+               "author" : "yanick_champoux",
                "link" : "http://bit.ly/1rPsT01",
                "tags" : [],
                "text" : "Yanick shares his new toy, how he gathers news items from RSS feeds to build the Perl Weekly on the weeks when he is the editor.",

@@ -25,6 +25,7 @@
                "url" : "http://markmail.org/message/ppxh26b7jlrs7up3"
             },
             {
+               "author" : "kmx",
                "link" : "http://bit.ly/13xQU2q",
                "tags" : [],
                "text" : "Can't say that Strawberry Perl is lagging behind. Four days after 5.18.1 hits the shelves, it's back at parity.",
@@ -194,6 +195,7 @@
                "url" : "http://thorsen.pm/perl/2013/08/13/toadfarm.html"
             },
             {
+               "author" : "sawyer_x",
                "link" : "http://bit.ly/13La4g5",
                "tags" : [],
                "text" : "",
@@ -218,6 +220,7 @@
                "url" : "http://perlgeek.de/blog-en/perl-6/2013-yapc-day-1.html"
             },
             {
+               "author" : "thomas_klausner",
                "link" : "http://bit.ly/13xQUzn",
                "tags" : [],
                "text" : "The green/yellow report of domm (Thomas Kalusner).",

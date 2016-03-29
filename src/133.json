@@ -52,6 +52,7 @@
       {
          "entries" : [
             {
+               "author" : "curtis_ovid_poe",
                "link" : "http://bit.ly/1cn8wN8",
                "tags" : [],
                "text" : "Curtis 'Ovid' Poe, who runs the company called 'All Around the World' with his wife, has released some of their test-training materials under the Creative Commons by-nc license.",
@@ -158,6 +159,7 @@
                "url" : "http://blogs.perl.org/users/mark_leighton_fisher/2014/02/setjaccardsimilaritycoefficient-v051.html"
             },
             {
+               "author" : "neil_bowers",
                "link" : "http://bit.ly/1cn8xkg",
                "tags" : [],
                "text" : "This is mostly for researchers, who, for some strange reason, would like to research the content of ancient distributions uploaded to CPAN.",
@@ -306,6 +308,7 @@
                "url" : "http://diakopt.blogspot.co.il/2014/02/perl-vs-python-2013-some-actual-stats.html"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/1cn8yEN",
                "tags" : [],
                "text" : "My collection of some numbers. Most interesting are the Google Analytics graphs from blogs.perl.org, MetaCPAN, and search.cpan.org.",

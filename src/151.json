@@ -69,6 +69,7 @@
       {
          "entries" : [
             {
+               "author" : "yanick_champoux",
                "link" : "http://bit.ly/1qjsljy",
                "tags" : [],
                "text" : "When upgrading to Ubuntu 14.04 Yanick found out that KDE's Knotes has changed the format it was using to save notes and it could not upgrade the files itself. No problem. Perl with the help of Yanick could solve the problem. Code included.",
@@ -98,6 +99,7 @@
                "url" : "http://jjnapiorkowski.typepad.com/modern-perl/2014/06/catalyst-development-and-stable-releases-current-summary.html"
             },
             {
+               "author" : "yanick_champoux",
                "link" : "http://bit.ly/1qjsljF",
                "tags" : [],
                "text" : "waack is a mashup of DBIx::Class::Schema::Loader, SQL::Translator, Dancer providing a web a RESTish web interface to any database with any schema.",
@@ -172,6 +174,7 @@
                "url" : "http://perltv.org/v/refactoring-tools-for-perl-code"
             },
             {
+               "author" : "larry_wall",
                "link" : "http://bit.ly/1qjsjIx",
                "tags" : [],
                "text" : "A 6 min part of a longer interview from 2011.",

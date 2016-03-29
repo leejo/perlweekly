@@ -173,7 +173,7 @@
       {
          "entries" : [
             {
-               "author" : "",
+               "author" : "timotimo",
                "link" : "",
                "tags" : [],
                "text" : "On the Perl6 horizon: quick way create hashes with objects for keys, more helpful warning messages, optimizations, and more!",

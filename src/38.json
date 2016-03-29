@@ -133,6 +133,7 @@
                "url" : "http://perlbuzz.com/2012/04/testwwwmechanize-adds-scraping-functions.html"
             },
             {
+               "author" : "breno_de_oliveira",
                "link" : "http://bit.ly/HLE8mh",
                "tags" : [],
                "text" : "A late memoire from the Brazilian player called Breno G. de Oliveira (garu).",
@@ -171,6 +172,7 @@
                "url" : "http://qa.celogeek.com/programming/perl/workoffline"
             },
             {
+               "author" : "jason_crome",
                "link" : "http://bit.ly/HUIgxU",
                "tags" : [],
                "text" : "Jason A. Crome provides a quick and dirty solution. Anyone there to make it more robust?",
@@ -249,6 +251,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/ItazyW",
                "tags" : [],
                "text" : "This is a follow-up post",

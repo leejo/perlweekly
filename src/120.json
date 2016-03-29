@@ -122,6 +122,7 @@
                "url" : "http://blog.carloslima.name/blog/2013/11/05/running-perl-workers-on-iron-dot-io/"
             },
             {
+               "author" : "yanick_champoux",
                "link" : "",
                "tags" : [],
                "text" : "Yanick is trying the Fish shell. Not being POSIX-compliant, it doesn&#39;t work well with perlbrew off the box.  That just won&#39;t do.",
@@ -154,6 +155,7 @@
                "url" : "http://showmetheco.de/articles/2013/11/contracts-in-mop.html"
             },
             {
+               "author" : "yanick_champoux",
                "link" : "",
                "tags" : [],
                "text" : "A walk through the creation of a (very) minimal graph-based web UI for Oozie, by Yanick.",
@@ -169,6 +171,7 @@
       {
          "entries" : [
             {
+               "author" : "thomas_klausner",
                "link" : "",
                "tags" : [],
                "text" : "The ultimate goal of computer science is, as we all know, to produce cool T-shirts. And blow minds. So it stands to reason that the first thing the Austrian Perl Workshop did with the bright new shiny p5-mop was an obsfuscated code-adorned garment. domm, very kindly, translates the arcane scribbling for us.",

@@ -96,6 +96,7 @@
       {
          "entries" : [
             {
+               "author" : "dave_rolsky",
                "link" : "http://bit.ly/OxNMVV",
                "tags" : [],
                "text" : "Dave Rolsy picked up the theme from last week and has a solution for all the companies that find it hard to hire good Perl developers. Allow telecommuting. One of the comments mention that offering a decent salary is also a good idea...",
@@ -228,6 +229,7 @@
       {
          "entries" : [
             {
+               "author" : "mark_allen",
                "link" : "http://bit.ly/LkNXDz",
                "tags" : [],
                "text" : "If you ever wondered why the official documentation of Perl still promotes a coding style that is rarely needed, and can lead to insecure code, there you can have the discussion about changing perlopentut. The other discussions seemed to involve much less drama.",
@@ -236,6 +238,7 @@
                "url" : "http://byte-me.org/perl-5-porters-weekly-july-2-july-8-2012/"
             },
             {
+               "author" : "miguel_prz",
                "link" : "http://bit.ly/NvZB1H",
                "tags" : [],
                "text" : "",
@@ -244,6 +247,7 @@
                "url" : "http://niceperl.blogspot.co.il/2012/07/xii-metacpan-favourites-weekly-report.html"
             },
             {
+               "author" : "miguel_prz",
                "link" : "http://bit.ly/Nw9Jd3",
                "tags" : [],
                "text" : "",

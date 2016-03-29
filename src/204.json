@@ -93,6 +93,7 @@
                "url" : "http://www.effectiveperlprogramming.com/2015/06/perl-v5-22-adds-hexadecimal-floating-point-literals/"
             },
             {
+               "author" : "yanick_champoux",
                "tags" : [],
                "text" : "<a href=\"http://www.stonehenge.com/merlyn/\">Randal Schwartz</a> is <a href=\"http://blogs.perl.org/users/randal_l_schwartz/2015/06/found-a-bug-in-filefinder.html\">getting old</a> (I know, this probably isn't news for most of us, but let's humour him, ok?); <a href=\"https://metacpan.org/author/OVID\">Ovid</a> posted a <a href=\"http://blogs.perl.org/users/ovid/2015/06/git-stashed.html\">tip for git stashers</a>; <a href=\"https://metacpan.org/search?q=YANICK&amp;size=20\">Yanick</a> has hacked on his <a href=\"http://techblog.babyl.ca/entry/cheatsheet-ii\">script for creating cheatsheets</a>.",
                "title" : "Quick Links",

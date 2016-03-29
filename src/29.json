@@ -12,6 +12,7 @@
                "url" : "http://mdk.per.ly/2012/02/06/gsoc-2012/"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/wvb39T",
                "tags" : [
                   "DWIM Perl",
@@ -212,6 +213,7 @@
       {
          "entries" : [
             {
+               "author" : "damian_conway",
                "link" : "http://bit.ly/A6BPMF",
                "tags" : [],
                "text" : "Ian Norton mentioned the training Damian will give on 16 April 2012 in London.",
@@ -225,6 +227,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/z0Xjw7",
                "tags" : [],
                "text" : "I have been planning to publish my Perl training materials along with the newly written Perl set of articles. This is the first one with the Beginner Perl Maven material.",
@@ -233,6 +236,7 @@
                "url" : "http://szabgab.com/announcing-my-first-perl-e-book.html"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/xzhKpL",
                "tags" : [],
                "text" : "IMHO for beginners it's quite hard to find explanation on what are the special variables of Perl. Especially $_ is confusing people and search engines. I hope my little contribution helps.",
@@ -241,6 +245,7 @@
                "url" : "http://szabgab.com/the-default-variable-of-perl.html"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/xTioOV",
                "tags" : [],
                "text" : "People coming from other programming languages often have trouble with the automatic string to number conversion in Perl. The comments also mention a couple of strange cases.",

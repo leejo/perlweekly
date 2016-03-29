@@ -121,6 +121,7 @@
                "url" : "http://babyl.dyndns.org/techblog/entry/gitstore-meets-moosex-storage"
             },
             {
+               "author" : "alexey_melezhik",
                "link" : "http://bit.ly/10HmEhC",
                "tags" : [],
                "text" : "How easy is it to install psgi-based applications using Chef? Pretty darn easy, according to melezhik's examples.",

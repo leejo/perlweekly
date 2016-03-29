@@ -20,6 +20,7 @@
       {
          "entries" : [
             {
+               "author" : "david_farrell",
                "link" : "http://bit.ly/1gFEL1F",
                "tags" : [],
                "text" : "Would you like to <b>win</b> a Perl Nerd Badge with a Velociraptor on it? You only have to write an article for the Perltricks site and submit it before February 21, 2014.",
@@ -319,6 +320,7 @@
       {
          "entries" : [
             {
+               "author" : "sawyer_x",
                "link" : "http://bit.ly/1gFEOua",
                "tags" : [],
                "text" : "The hackathon will be held during February 8-9, 2014 in the Technologia Incognita hackspace, in Amsterdam.",

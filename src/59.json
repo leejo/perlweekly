@@ -182,6 +182,7 @@
                "url" : "http://jjnapiorkowski.typepad.com/modern-perl/2012/09/first-draft-perl-for-recruiters-page-on-google-docs.html"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/P6YW7J",
                "tags" : [],
                "text" : "I created a list of perl-related web-sites and checked their rankings using Alexa. Here you can see the most visited sites. A few people were missing their own sites from the list, but actually I was hoping for more people to complain and give me ideas what other sites to track.",

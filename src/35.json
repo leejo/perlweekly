@@ -65,6 +65,7 @@
                "url" : "http://www.modernperlbooks.com/mt/2012/03/inadvertent-inconsistencies-each-versus-autoderef.html"
             },
             {
+               "author" : "ingy_dot_net",
                "link" : "http://bit.ly/GQjds2",
                "tags" : [],
                "text" : "Ingy döt Net working at ActiveState shows the one commend you need and then explains in length what is Stackato, ActiveState, PaaS and why would you care. I am actually surprised that a corporation let Ingy write a blog post for them. In a positive way.",
@@ -87,6 +88,7 @@
                "url" : "http://programming.tudorconstantin.com/2012/03/perl-teasing-challenge.html"
             },
             {
+               "author" : "dominic_humpries",
                "link" : "http://bit.ly/H5acMe",
                "tags" : [],
                "text" : "Unfortunately this post does not come with code examples but it illustrates how Perl and CPAN can help to create solutions for various problems. In this case they needed to know at any given time how many web requests they were getting, what type, what they were for, who they were for, who they were from, etc. and they needed it in graphs. In a nutshell they needed a specialized log parser and graphical reporter tool.",
@@ -149,6 +151,7 @@
       {
          "entries" : [
             {
+               "author" : "curtis_ovid_poe",
                "link" : "http://bit.ly/H56bHP",
                "tags" : [
                   "Dancer"
@@ -197,6 +200,7 @@
       {
          "entries" : [
             {
+               "author" : "carl_masak",
                "link" : "http://bit.ly/GSa7KA",
                "tags" : [],
                "text" : "I am not sure if I was in Thailand on a beach, I'd search for hexagonal games on my Android phone - especially as I don't have an Android phone - but Carl Mäsak did just that, which resulted in the 4th task in his Perl 6 challenge. If you like puzzles, this is the right place for you.",

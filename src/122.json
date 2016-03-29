@@ -65,6 +65,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/1c46pRb",
                "tags" : [],
                "text" : "Are you a CPAN author? Do you think that your module is useful? Even to people who use Google as their search engine? Here is a way you can help Google show your module in a more personal way.",
@@ -121,6 +122,7 @@
       {
          "entries" : [
             {
+               "author" : "yanick_champoux",
                "link" : "http://bit.ly/IomDJp",
                "tags" : [],
                "text" : "Command-line perldoc, dzil and got completion from your favorite Yanick. Screenshows.",

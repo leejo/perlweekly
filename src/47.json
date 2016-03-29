@@ -114,6 +114,7 @@
       {
          "entries" : [
             {
+               "author" : "sawyer_x",
                "link" : "http://bit.ly/KQEfYQ",
                "tags" : [],
                "text" : "An exercise in design by Sawyer making changes to the real world.",
@@ -135,6 +136,7 @@
       {
          "entries" : [
             {
+               "author" : "paul_johnson",
                "link" : "http://bit.ly/KRKThn",
                "tags" : [],
                "text" : "",
@@ -214,6 +216,7 @@
                "url" : "http://blogs.perl.org/users/sawyer_x/2012/06/my-bingo-results-at-yapcna-2012.html"
             },
             {
+               "author" : "ricardo_signes",
                "link" : "http://bit.ly/LpHxbe",
                "tags" : [],
                "text" : "This is basically only interesting to people who attended YAPC::NA and how received the cards in the welcome bag. RJBS shows an improved set of rules for the game.",

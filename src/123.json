@@ -86,6 +86,7 @@
                "url" : "http://blogs.perl.org/users/ovid/2013/11/why-are-fast-tests-important.html"
             },
             {
+               "author" : "neil_bowers",
                "link" : "http://bit.ly/18TTznR",
                "tags" : [],
                "text" : "The CPAN adoption list ranks modules how important it would be for you to step-up and volunteer to maintain them. It takes into account several factors, and starting from now, it also includes the test reports collected by the CPAN Testers.",

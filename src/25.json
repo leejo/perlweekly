@@ -163,6 +163,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/yCRR11",
                "tags" : [],
                "text" : "If you'd like to get the news of Perl weekly even earlier, or if you'd like to recommend individual posts, you can do that through any of 3 social networks.",
@@ -171,6 +172,7 @@
                "url" : "http://szabgab.com/how-to-get-the-perl-weekly-every-day.html"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/xvdHTg",
                "tags" : [
                   "Perl",
@@ -182,6 +184,7 @@
                "url" : "http://szabgab.com/use-of-uninitialized-value.html"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/yohvKI",
                "tags" : [
                   "Perl",

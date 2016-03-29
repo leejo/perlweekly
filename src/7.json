@@ -36,6 +36,7 @@
                "url" : "http://www.i-programmer.info/programming/perl/3001-perl-says-hi-to-i-programmer.html"
             },
             {
+               "author" : "gabor_szabo",
                "tags" : [
                   "Perl Weekly",
                   "newsletter",
@@ -152,6 +153,7 @@
                "url" : "http://rakudo.org/2011/09/09/nom-branch-default/"
             },
             {
+               "author" : "carl_masak",
                "tags" : [
                   "Perl 6",
                   "Rakudo"

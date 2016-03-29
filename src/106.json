@@ -34,6 +34,7 @@
                "url" : "http://weblog.bulknews.net/post/57356232719/carton-1-0-is-released"
             },
             {
+               "author" : "sawyer_x",
                "link" : "http://bit.ly/11GV593",
                "tags" : [],
                "text" : "SawyerX, now reporting from Amsterdam, tells the short history of Dancer 2 releases. I don't think there is any information about Dancer 2 on the main Perl Dancer web site, so I am happy to see that it is being developed, and that new releases appear. At this point it is still unclear to me who is using Dancer 2, and whether there is a clear upgrade path from Dancer 1 to Dancer 2.",
@@ -200,6 +201,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/11GV4C0",
                "tags" : [],
                "text" : "Once in a while I collect numbers from various sources trying to see how the Perl Maven site does and compare that with other Perl-related sites, and with sites related to PHP, Python and Ruby. It is unfortunate we don't have the visitor count of the major Perl community sites, but at least you might be able to interpolate from these numbers.",

@@ -44,6 +44,7 @@
                "url" : "http://www.modernperlbooks.com/mt/2012/10/i-stopped-parsing-xml-thanks-to-xmlrabbit.html"
             },
             {
+               "author" : "caleb_cushing",
                "link" : "http://bit.ly/Qgba1M",
                "tags" : [],
                "text" : "An unusual article in the Perl world discussing design of various modules. For example, if you needed non-blocking http request, could you replace LWP::UserAgent by AnyEvent::HTTP::LWP::UserAgent in a third party module? How should the modules be designed so this will be possible?",
@@ -84,6 +85,7 @@
       {
          "entries" : [
             {
+               "author" : "tokuhiro_matsuno",
                "link" : "http://bit.ly/PPMflS",
                "tags" : [],
                "text" : "Web::Query changed from throwing exception to returning false. Interesting in light of the recent discussion about autodie that elevates false returns to exceptions in the built-in functions.",
@@ -92,6 +94,7 @@
                "url" : "http://blog.64p.org/entry/2012/11/01/133813"
             },
             {
+               "author" : "kmx",
                "link" : "http://bit.ly/SJoRTZ",
                "tags" : [],
                "text" : "",
@@ -113,6 +116,7 @@
                "url" : "http://niceperl.blogspot.co.il/2012/11/perl-stackoverflow-reports-first-year.html"
             },
             {
+               "author" : "david_golden",
                "link" : "http://bit.ly/SqJROy",
                "tags" : [],
                "text" : "Looking at this graph I wonder, why are most of my clients still using Perl 5.6 and 5.8? What went wrong?",

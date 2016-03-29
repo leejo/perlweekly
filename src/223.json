@@ -60,6 +60,7 @@
       {
          "entries" : [
             {
+               "author" : "timotimo",
                "tags" : [],
                "text" : "The main news this week was the official release of Perl 6 beta. Christmas is getting closer!",
                "title" : "2015.44 Niceville",

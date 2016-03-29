@@ -122,6 +122,7 @@
       {
          "entries" : [
             {
+               "author" : "yanick_champoux",
                "link" : "",
                "tags" : [],
                "text" : "Yanick revisits his old idea of a web library tool, meant to complement and work with your favorite web framework.",

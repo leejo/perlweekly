@@ -71,6 +71,7 @@
                "url" : "http://hoelz.ro/blog/system-sleuthing-using-ptrace-to-find-syscall-sites"
             },
             {
+               "author" : "david_farrell",
                "link" : "http://bit.ly/1pZUV9U",
                "tags" : [],
                "text" : "",
@@ -193,6 +194,7 @@
       {
          "entries" : [
             {
+               "author" : "carl_masak",
                "link" : "http://bit.ly/1pZUVGM",
                "tags" : [],
                "text" : "A math problem solved by Carl Mäsak using Perl 6",

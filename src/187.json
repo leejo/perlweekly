@@ -164,6 +164,7 @@
                "url" : "http://www.dagolden.com/index.php/2406/thoughts-on-getting-perl-6-for-christmas/"
             },
             {
+               "author" : "timotimo",
                "tags" : [],
                "text" : "The weekly Perl 6 update: performance improvements; the 'long' type, and stricter laxness, among other things.",
                "title" : "I like trains! Fast trains, that is ...",

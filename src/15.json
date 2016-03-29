@@ -71,6 +71,7 @@
                "url" : "http://johnwang.com/explaining-why-moose-is-awesome-the-direct-way/"
             },
             {
+               "author" : "alberto_simoes",
                "link" : "http://bit.ly/sgYvPJ",
                "tags" : [
                   "CPAN",
@@ -198,6 +199,7 @@
                "url" : "http://showmetheco.de/articles/2011/11/tdd-best-practices-in-perl.html"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/tnpPdF",
                "tags" : [
                   "testing",
@@ -264,6 +266,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/uYCx0o",
                "tags" : [
                   "tutorial",
@@ -276,6 +279,7 @@
                "url" : "http://szabgab.com/perl_tutorial.html"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/shYN65",
                "tags" : [
                   "tutorial",

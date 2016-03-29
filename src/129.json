@@ -48,6 +48,7 @@
                "url" : "http://blogs.perl.org/users/kmx/2014/01/strawberry-perl-51821-released.html"
             },
             {
+               "author" : "david_golden",
                "link" : "http://bit.ly/1cZTBro",
                "tags" : [],
                "text" : "The future needs you. IO:Socket::IP is planned to be added to Perl 5.20,  and thus bring IPv6 support to core perl. But before this happens, the new code has to be thoroughly tested. This is where you, if you accept your mission, will fit in.",
@@ -187,6 +188,7 @@
                "url" : "http://blog.stratopan.com/2014/01/attention-pinto-users-use-this-workaround-while-pause-is-down/"
             },
             {
+               "author" : "yanick_champoux",
                "link" : "http://bit.ly/1cZTBHM",
                "tags" : [],
                "text" : "The entry was modern, and this is its post-mortem. Yanick presents  the program he submitted to the Dallas/Fort Worth Perl Mongers  Winter Hackaton Challenge.",

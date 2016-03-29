@@ -256,6 +256,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/YO6Jih",
                "tags" : [],
                "text" : "I've updated and released the edition of the Advanced Perl book. People who already purchased (or who attended my advanced course) can download it free.",

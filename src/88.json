@@ -154,6 +154,7 @@
                "url" : "http://privacygeek.blogspot.com.au/2013/03/gamifiy-your-command-line-with-habitrpg.html"
             },
             {
+               "author" : "thomas_klausner",
                "link" : "http://bit.ly/YVzNzE",
                "tags" : [],
                "text" : "Perl packages have to end with a true value. Typically, that's '1'. But some authors get more... creative. domm sends his module hunting for those peculiar  true values, and aggregates them for our viewing pleasure.",
@@ -233,6 +234,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/YVzQv7",
                "tags" : [],
                "text" : "There are going to be 7 courses before and after YAPC::NA in Austin, TX. Check out the schedule and buy your tickets.",

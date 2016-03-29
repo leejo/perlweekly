@@ -17,6 +17,7 @@
       {
          "entries" : [
             {
+               "author" : "yanick_champoux",
                "link" : "",
                "tags" : [],
                "text" : "Yanick reminds us that the end is nigh. In this case, the end of Twitter's support of version 1 of their REST API (which is due for June 11th). Is your code, and the plugins of your web framework updated and ready to weather the storm?",
@@ -92,6 +93,7 @@
                "url" : "http://blogs.perl.org/users/buddy_burden/2013/06/slideshows-in-vroom-so-noted.html"
             },
             {
+               "author" : "yanick_champoux",
                "link" : "",
                "tags" : [],
                "text" : "Every hacker, sooner or later, will come up with their own template system or blog engine. In this instance, Yanick comes up with the second generation of his blog engine. And his own templating system. And a few other things.",

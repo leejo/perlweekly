@@ -168,6 +168,7 @@
                "url" : "http://blogs.perl.org/users/phred/2013/07/the-state-of-soaplite---here-comes-10.html"
             },
             {
+               "author" : "yanick_champoux",
                "link" : "http://bit.ly/14CmfxO",
                "tags" : [],
                "text" : "It is not straight-forward how you could distribute a Dancer based Perl application as a CPAN module. Yanick show us the way with his buzzword-compliant Markdown-based presentation app,",
@@ -189,6 +190,7 @@
                "url" : "http://6guts.wordpress.com/2013/07/02/rakudo-on-jvm-progress-update/"
             },
             {
+               "author" : "jonathan_worthington",
                "link" : "http://bit.ly/14Cmd9a",
                "tags" : [],
                "text" : "A text only interview conducted by Nikos Vaggalis. Jonathan is comparing C# with Perl, Parrot with the JVM and with MoarVM",

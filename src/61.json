@@ -75,6 +75,7 @@
       {
          "entries" : [
             {
+               "author" : "sawyer_x",
                "link" : "http://bit.ly/SKDsMD",
                "tags" : [
                   "LDTP"
@@ -96,6 +97,7 @@
                "url" : "http://babyl.dyndns.org/techblog/entry/test-dancer-plugins"
             },
             {
+               "author" : "damien_krotkine",
                "link" : "http://bit.ly/Sdm3A3",
                "tags" : [
                   "ElasticSearch",

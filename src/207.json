@@ -111,6 +111,7 @@
                "url" : "https://6guts.wordpress.com/2015/07/09/this-week-digging-into-multi-dimensional-arrays-and-plenty-more/"
             },
             {
+               "author" : "timotimo",
                "tags" : [],
                "text" : "A collection of pointers to many things going on in the Perl 6 world in the week to 6th July.",
                "title" : "2015.27 It was HOT",

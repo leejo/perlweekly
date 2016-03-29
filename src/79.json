@@ -11,6 +11,7 @@
                "url" : "http://log.perl.org/2013/01/pauseperlorg-moved.html"
             },
             {
+               "author" : "claudio_ramirez",
                "link" : "http://bit.ly/Wjxhob",
                "tags" : [],
                "text" : "FOSDEM. It's in Brussels. It's February 2nd and 3rd and there will be a Perl dev-room. Thanks to the heroic work of Claudio and Wendy and probably a few others, in a last minute call, they managed to put together a full day of rather interesting Perl-related talks to fill the dev-room. For details, check the post of Claudio and the links from his writing.",
@@ -83,6 +84,7 @@
                "url" : "http://babyl.dyndns.org/techblog/entry/newsmill"
             },
             {
+               "author" : "thomas_klausner",
                "link" : "http://bit.ly/14oBt91",
                "tags" : [],
                "text" : "Domm's blog engine, Blio, has been updated. Amongst the new features: automatic publishing via git hooks.",

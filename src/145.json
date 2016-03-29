@@ -78,6 +78,7 @@
       {
          "entries" : [
             {
+               "author" : "david_golden",
                "link" : "http://bit.ly/1jtIgHz",
                "tags" : [],
                "text" : "",
@@ -113,6 +114,7 @@
       {
          "entries" : [
             {
+               "author" : "sawyer_x",
                "link" : "http://bit.ly/1jtIfnd",
                "tags" : [],
                "text" : "Mostly the results of the recent Dancer 2 hackathon.",
@@ -121,6 +123,7 @@
                "url" : "http://blogs.perl.org/users/sawyer_x/2014/04/major-dancer-2-release-0140000.html"
             },
             {
+               "author" : "sawyer_x",
                "link" : "http://bit.ly/1jtIgHD",
                "tags" : [],
                "text" : "",
@@ -151,6 +154,7 @@
                "url" : "http://perlnews.org/2014/05/news-from-the-metacpan-developers/"
             },
             {
+               "author" : "david_farrell",
                "link" : "http://bit.ly/1jtIgHI",
                "tags" : [],
                "text" : "The monthly report about new stuff on CPAN.",
@@ -231,6 +235,7 @@
                "url" : "http://pugs.blogs.com/pugs/2014/04/programming-languages-and-rails-girls.html"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/1jtIgYe",
                "tags" : [],
                "text" : "In a nutshell, I think if all the people who benefit from Perl contributed back to the community, the Perl ecosystem could do a lot more. So if you cannot contribute time, maybe you can contribute some money. GitTip is an easy way to do so.",

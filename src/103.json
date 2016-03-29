@@ -116,6 +116,7 @@
                "url" : "http://blogs.perl.org/users/peter_rabbitson/2013/07/crowdsourcing-self-confidence.html"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/15wo2Ui",
                "tags" : [],
                "text" : "A couple of days ago I saw one of the bloggers complaining about the above. I could not stop myself from writing this.",
@@ -262,6 +263,7 @@
       {
          "entries" : [
             {
+               "author" : "jonathan_worthington",
                "link" : "http://bit.ly/15wo6mO",
                "tags" : [],
                "text" : "So how does the JVM back-end and the new MoarVM back-end relate to each other, and why did they keep the development of MoarVM secret? How will Perl 5 inter-operate with Perl 6 on top of the MoarVM?",

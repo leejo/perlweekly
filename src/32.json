@@ -156,6 +156,7 @@
       {
          "entries" : [
             {
+               "author" : "breno_de_oliveira",
                "link" : "http://bit.ly/x6020n",
                "tags" : [],
                "text" : "A report by garu (Breno G. de Oliveira) on his trip to Orlando.",
@@ -259,6 +260,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/zUHM79",
                "tags" : [],
                "text" : "Showing 3 functions for dealing with files in Perl with the PHP, Ruby and Python counterparts.",
@@ -267,6 +269,7 @@
                "url" : "http://szabgab.com/how-to-remove-copy-or-rename-a-file-with-perl.html"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/xAW2ue",
                "tags" : [],
                "text" : "I do monthly reports on my work and make my monthly plans public. You can also see some statistics about the number of Perl Weekly subscribers on the various channels.",

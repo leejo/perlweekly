@@ -137,6 +137,7 @@
                "url" : "http://cubloid.blogspot.ca/2013/09/some-details-on-perl-my-internals.html"
             },
             {
+               "author" : "yanick_champoux",
                "link" : "http://bit.ly/1avVsto",
                "tags" : [],
                "text" : "XML::Rabbit is an awesome module to convert XML documents into Moose objects. Yanick thought it'd be nice to have a similar JSON::Rabbit. Now there is.",

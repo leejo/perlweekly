@@ -153,6 +153,7 @@
                "url" : "https://metacpan.org/module/Any::Moose"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/W3hiYz",
                "tags" : [],
                "text" : "Calling all the CPAN authors to update the META information of their packages including the license field and the link to the repository where they develop the code. If there is one.",

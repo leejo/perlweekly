@@ -48,6 +48,7 @@
                "url" : "http://perlnews.org/2014/05/perl-5-20-released/"
             },
             {
+               "author" : "kmx",
                "link" : "http://bit.ly/1hOS5wf",
                "tags" : [],
                "text" : "",
@@ -86,6 +87,7 @@
       {
          "entries" : [
             {
+               "author" : "thomas_klausner",
                "link" : "http://bit.ly/1hOS5MD",
                "tags" : [],
                "text" : "While refactoring a large code-base, domm has encountered this error. It turns out it was a bug in DBIx::Class::Schema::Loader clobbering $_. Besides that, I'd say: Using $_ explicitly is usually not a good idea.",
@@ -211,6 +213,7 @@
                "url" : "http://blogs.perl.org/users/pawel_bbkr_pabian/2014/05/perl-6-meets-json-rpc.html"
             },
             {
+               "author" : "carl_masak",
                "link" : "http://bit.ly/1hOS6jC",
                "tags" : [],
                "text" : "Carl Mäsak is back in the ring for more blogging.",

@@ -94,6 +94,7 @@
                "url" : "http://blogs.perl.org/users/davewood/2014/09/using-travis-with-distzilla-projects.html"
             },
             {
+               "author" : "david_farrell",
                "link" : "http://bit.ly/1q14Nee",
                "tags" : [],
                "text" : "The monthly report of David Farell on the newly uploaded modules on CPAN. You can get the raw list from MetaCPAN (see the screencast about MetaCPAN recent uploads), but it is much more fun to see the list categorized and commented.",

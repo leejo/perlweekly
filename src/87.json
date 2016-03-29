@@ -180,6 +180,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/14oDd4W",
                "tags" : [],
                "text" : "In case you are interested in the distribution of the readers of the Perl Weekly and the Perl Maven site around the world, I published the data from Google Analytics and Bitly.",

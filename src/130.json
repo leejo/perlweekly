@@ -28,6 +28,7 @@
       {
          "entries" : [
             {
+               "author" : "timm_murray",
                "link" : "http://bit.ly/1aD0IWW",
                "tags" : [],
                "text" : "For those who like to play with flying saucers. Or, in this case, 4-wheel saucers.",
@@ -50,6 +51,7 @@
       {
          "entries" : [
             {
+               "author" : "ricardo_signes",
                "link" : "http://bit.ly/1aD0IX3",
                "tags" : [],
                "text" : "Some improvements to Dist::Zilla to make bug reports of your module be more specific.",
@@ -196,6 +198,7 @@
       {
          "entries" : [
             {
+               "author" : "matt_trout",
                "link" : "http://bit.ly/1aD0MpR",
                "tags" : [],
                "text" : "A surprisingly useful explanation of the MVC (Model View Controller) pattern and the RESTfull interface of Catalyst.",

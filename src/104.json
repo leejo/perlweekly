@@ -17,6 +17,7 @@
       {
          "entries" : [
             {
+               "author" : "damian_conway",
                "link" : "http://bit.ly/1bEfz7N",
                "tags" : [],
                "text" : "August 1st at 7:15pm, at Utah Valley University. The topic: Temporally Quaquaversal Virtual Nanomachine Programming In Multiple Topologically Connected Quantum-Relativistic Parallel Spacetimes...Made Easy!",
@@ -82,6 +83,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/1369fxv",
                "tags" : [],
                "text" : "Comparing the default installation size of the 3 major dynamic programming languages. Perl is the smallest, but Pythons has a lot of batteries included. There are many modules in the standard library of Python, that are missing from from the standard installation of Perl and thus require extra steps to install them from CPAN.",
@@ -210,6 +212,7 @@
                "url" : "http://6guts.wordpress.com/2013/07/15/rakudo-jvm-news-more-tests-plus-thread-and-promise-prototypes/"
             },
             {
+               "author" : "jonathan_worthington",
                "link" : "http://bit.ly/1369fxI",
                "tags" : [],
                "text" : "In this part Jonathan talks about the considerations in implementing Perl on top of a stack based machine like the JVM and on a register based virtual machine like Parrot or the MoarVM. He also discussed the possibility of a virus eating all the C-programmers, hiking in the Swiss Alps, and the proliferation of Perl forks.",

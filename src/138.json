@@ -50,6 +50,7 @@
                "url" : "http://www.wumpus-cave.net/2014/03/12/perl-encryption-primer-the-importance-of-randomness/"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/1iVCkZT",
                "tags" : [],
                "text" : "In a nutshell: the 'ease of getting started' and 'batteries included' are two keys in those stories and while there are other issues, without solving these two Perl has no chance in getting in the ring again.",
@@ -89,6 +90,7 @@
                "url" : "http://blogs.perl.org/users/chad_exodist_granum/2014/03/testmore---new-maintainer-also-stop-version-checking.html"
             },
             {
+               "author" : "neil_bowers",
                "link" : "http://bit.ly/1iVCnou",
                "tags" : [],
                "text" : "It is only based on data from a single CPAN distribution, but so far it shows that the bulk of the test reports arrive in the first 8 days after the release reaches PAUSE with some reports arriving within the first hour!",
@@ -148,6 +150,7 @@
       {
          "entries" : [
             {
+               "author" : "alexey_melezhik",
                "link" : "http://bit.ly/1iVCnF6",
                "tags" : [],
                "text" : "This looks like some strange animal. A build-server for Perl applications, but running on Ruby on Rails? You might want to check it out and let everyone know what's it about?",
@@ -228,6 +231,7 @@
       {
          "entries" : [
             {
+               "author" : "timotimo",
                "link" : "http://bit.ly/1iVCnVu",
                "tags" : [],
                "text" : "This is the Perl 6 weekly",

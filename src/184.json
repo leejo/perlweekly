@@ -110,6 +110,7 @@
                "url" : "http://blogs.perl.org/users/shadowcat_mdk/2015/02/fosdem-2015-its-christmas.html"
             },
             {
+               "author" : "timotimo",
                "tags" : [],
                "text" : "The latest news from Perl 6 (apart from, you know, that talk). MoraVM got 20% faster,",
                "title" : "Gotanda lands",

@@ -22,6 +22,7 @@
                "url" : "http://blog.yapcna.org/post/8810880932/and-our-theme-for-yapc-na-2012-is"
             },
             {
+               "author" : "thomas_klausner",
                "tags" : [
                   "App::TimeTracker"
                ],

@@ -127,6 +127,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/1ylRcTk",
                "tags" : [],
                "text" : "I checked the number of posts on Stack Overflow tagged with each one of those: Catalyst: 380, Mojolicious: 213, Dancer: 133. Does this mean anything?",

@@ -67,6 +67,7 @@
                "url" : "http://showmetheco.de/articles/2012/11/testing-websockets-from-console.html"
             },
             {
+               "author" : "alberto_simoes",
                "link" : "http://bit.ly/S4NhaI",
                "tags" : [],
                "text" : "Want to display prices in 4 different currencies? Want to make it easy for the person building the HTML to do this? Alberto Simões shows how.",

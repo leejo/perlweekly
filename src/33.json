@@ -213,6 +213,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/zCFgGe",
                "tags" : [],
                "text" : "This is already the second part of a series of articles introducing Plack/PSGI. The first one is linked from this article. They start off at the basics and we'll see what is interesting for people so I know what to write about.",
@@ -221,6 +222,7 @@
                "url" : "http://szabgab.com/how-to-build-a-dynamic-web-application-using-psgi.html"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/yucTzS",
                "tags" : [],
                "text" : "I was just asked by someone to help with processing a log file. In this article I show 2 solutions. One with a flag the other one with the flip-flop operator of Perl.",

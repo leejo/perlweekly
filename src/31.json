@@ -72,6 +72,7 @@
                "url" : "http://pradeeppant.com/2012/02/20/delhi-pm-perl-monger-user-group-need-suggestions/"
             },
             {
+               "author" : "matt_trout",
                "link" : "http://bit.ly/xCvmJL",
                "tags" : [],
                "text" : "There is a new Perl Monger group being organized in Cluj Napoca in Transylvania, Romania. Matt S. Trout and Chisel Wright were invited to the opening. Please refrain from invoking Dracula jokes -- Transylvania is beautiful!",
@@ -237,6 +238,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/zx0Asi",
                "tags" : [],
                "text" : "What is the value your Perl Monger group provides you? What would provide you with value that would make it worth for you to join? What does it mean to 'join' a Perl Monger group?",

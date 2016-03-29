@@ -180,6 +180,7 @@
       {
          "entries" : [
             {
+               "author" : "ingy_dot_net",
                "link" : "http://bit.ly/14ZoPAN",
                "tags" : [],
                "text" : "Ingy döt Net is interviewed by Slashdot and talks about his Acmeism approach to programmation.",
@@ -278,6 +279,7 @@
       {
          "entries" : [
             {
+               "author" : "neil_bowers",
                "link" : "http://bit.ly/14ZoZIr",
                "tags" : [],
                "text" : "He is the author of a few articles comparing CPAN modules. He is a perl programmer who is also the joint owner of a small bootstrapped Perl-based start-up company. YouTube video or downloadable audio in mp3.",

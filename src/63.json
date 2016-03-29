@@ -58,6 +58,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/RKFOOL",
                "tags" : [],
                "text" : "This is the first step in my attempt to (re)build the Perl distribution that will contain everything you will ever need to build Perl applications.",
@@ -232,6 +233,7 @@
                "url" : "http://blogs.perl.org/users/lestrrat/2012/10/a-glimpse-of-yapcasia-tokyo-2012.html"
             },
             {
+               "author" : "jonathan_worthington",
                "link" : "http://bit.ly/TjSO0a",
                "tags" : [],
                "text" : "It's always a lot of fun reading the reports of Jonathan.",
@@ -240,6 +242,7 @@
                "url" : "http://6guts.wordpress.com/2012/10/03/yapcasia-2012/"
             },
             {
+               "author" : "karen_pauley",
                "link" : "http://bit.ly/TjUmHA",
                "tags" : [],
                "text" : "Karen reveals the secret how YAPC::Asia works so well.",

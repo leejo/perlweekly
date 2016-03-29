@@ -188,6 +188,7 @@
       {
          "entries" : [
             {
+               "author" : "jeffrey_thalhammer",
                "link" : "http://bit.ly/10mHjTv",
                "tags" : [],
                "text" : "The first interview on the Perl Maven site. Jeff Thalhammer speaks about his projects, fund-raising and money in Open Source in general.",

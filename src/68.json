@@ -25,6 +25,7 @@
                "url" : "http://blog.cpantesters.org/diary/152"
             },
             {
+               "author" : "tokuhiro_matsuno",
                "link" : "http://bit.ly/Rv2Mc2",
                "tags" : [],
                "text" : "This is a quick announcement with examples and a few screenshots.",

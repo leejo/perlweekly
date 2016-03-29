@@ -47,6 +47,7 @@
                "url" : "http://perlhacks.com/2013/02/texinfo-5-0-in-perl/"
             },
             {
+               "author" : "kmx",
                "link" : "http://bit.ly/15HOlZD",
                "tags" : [],
                "text" : "",
@@ -77,6 +78,7 @@
                "url" : "http://blog.64p.org/entry/2013/02/19/100312"
             },
             {
+               "author" : "david_golden",
                "link" : "http://bit.ly/UXFAHy",
                "tags" : [],
                "text" : "The perils of case insensitive file systems. Or maybe Perl should have a mode to automatically recognize such problems?",

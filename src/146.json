@@ -57,6 +57,7 @@
                "url" : "http://www.reddit.com/r/perl/comments/254g8m/concerned_about_perl_unpopularity/"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/SRXtsI",
                "tags" : [],
                "text" : "Thunderclap allow you to commit to send a specific tweet (or Facebook share) at a certain time in the future. I started a little experiment with it. If you like it, please join the action.",
@@ -164,6 +165,7 @@
                "url" : "http://rakudo.org/2014/05/05/announce-rakudo-star-release-2014-04/"
             },
             {
+               "author" : "timotimo",
                "link" : "http://bit.ly/SRXvB0",
                "tags" : [],
                "text" : "The Perl 6 weekly.",

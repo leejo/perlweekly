@@ -33,6 +33,7 @@
       {
          "entries" : [
             {
+               "author" : "david_farrell",
                "link" : "http://bit.ly/1fBn6Hd",
                "tags" : [],
                "text" : "v5.19.9 the latest development release of Perl edging toward 5.20 already has an experimental feature called 'signatures'. It will let you declare sub f($name, $email) {} eliminating the need to deal with @_. It is still far away from what Method::Signatures provides, but at least it will be part of the language.",

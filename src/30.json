@@ -81,6 +81,7 @@
       {
          "entries" : [
             {
+               "author" : "sawyer_x",
                "link" : "http://bit.ly/A5lq0c",
                "tags" : [],
                "text" : "xkcd is one of the greatest geek comic. Ever. It now has a module on CPAN. Actually, as Sawyer writes 'I searched CPAN and saw only a few xkcd modules'. Let me emphasize that: He saw only a *few*, and then went on writing another one... I think that attitude has been analyzed already by xkcd. And for all the people who might misunderstand me: I applaud Sawyer and the creation of WWW::xkcd.",
@@ -191,6 +192,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/zH9IRS",
                "tags" : [],
                "text" : "I took a regex related question I saw on PDX.pm and described how I'd build the regex step-by-step. The string isn't too complex: 'Usage:524944/1000000 messages' but I hope this approach can help people learn how they can go about building a regular expression.",

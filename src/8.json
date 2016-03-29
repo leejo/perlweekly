@@ -45,6 +45,7 @@
                "url" : "http://twiki.org/cgi-bin/view/Blog/BlogEntry201109x3"
             },
             {
+               "author" : "tina_muller",
                "link" : "http://bit.ly/pw_1002",
                "tags" : [
                   "Corelist"
@@ -82,6 +83,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/pw_1005",
                "tags" : [
                   "PHP",

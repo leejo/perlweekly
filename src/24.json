@@ -3,6 +3,7 @@
       {
          "entries" : [
             {
+               "author" : "curtis_ovid_poe",
                "link" : "http://bit.ly/zCkTAc",
                "tags" : [],
                "text" : "Curtis 'Ovid' Poe is writing a new Perl book for Wrox. This is the table of contents.",
@@ -11,6 +12,7 @@
                "url" : "http://blogs.perl.org/users/ovid/2012/01/beginning-perl---table-of-contents.html"
             },
             {
+               "author" : "breno_de_oliveira",
                "link" : "http://bit.ly/AsxiHw",
                "tags" : [],
                "text" : "Breno G. de Oliveira (Garu) has posted a detailed and awesome overview of what happened in the Perl community in 2011.",
@@ -113,6 +115,7 @@
       {
          "entries" : [
             {
+               "author" : "curtis_ovid_poe",
                "link" : "http://bit.ly/yDVqeW",
                "tags" : [
                   "Test::Class"
@@ -137,6 +140,7 @@
       {
          "entries" : [
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/AqN8e4",
                "tags" : [
                   "ExtUtils::MakeMaker"
@@ -166,6 +170,7 @@
                "url" : "http://perlbuzz.com/2012/01/perlcritic-finds-annoying-little-bugs-in-your-code.html"
             },
             {
+               "author" : "jason_froebe",
                "link" : "http://bit.ly/wglKk6",
                "tags" : [],
                "text" : "From Jason L. Froebe - Tech tips and How Tos for Fellow Techies",

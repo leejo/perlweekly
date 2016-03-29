@@ -187,6 +187,7 @@
       {
          "entries" : [
             {
+               "author" : "kmx",
                "link" : "http://bit.ly/1r72p8A",
                "tags" : [],
                "text" : "Updated external libraries - especially openssl-1.0.1g with a fix for heartbleed bug. Updated perl modules",
@@ -213,6 +214,7 @@
       {
          "entries" : [
             {
+               "author" : "timotimo",
                "link" : "http://bit.ly/1r72p8M",
                "tags" : [],
                "text" : "The Perl 6 weekly",

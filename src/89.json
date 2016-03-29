@@ -117,6 +117,7 @@
                "url" : "http://blogs.perl.org/users/vyacheslav_matjukhin/2013/04/play-perl-is-a-startup.html"
             },
             {
+               "author" : "curtis_ovid_poe",
                "link" : "http://bit.ly/16HB2ba",
                "tags" : [],
                "text" : "While announcing that he is going to be a freelancer Curtis 'Ovid' Poe talks about what agile means in the context of the BBC and how using a 'modified $agile_method' makes him nervous. In any case good luck with the freelancing.",

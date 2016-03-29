@@ -74,6 +74,7 @@
                "url" : "http://perlhacks.com/2013/05/articles/"
             },
             {
+               "author" : "sawyer_x",
                "link" : "http://bit.ly/11a6vo0",
                "tags" : [],
                "text" : "SawyerX was interviewed by the Russian e-magazine Pragmatic Perl. At last, an English version is now offered for the Cyrillic-challenged amongst us. ",

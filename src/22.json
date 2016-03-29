@@ -14,6 +14,7 @@
                "url" : "http://nxadm.wordpress.com/2011/12/21/perlfosdem2012-cfs/"
             },
             {
+               "author" : "carl_masak",
                "link" : "http://bit.ly/uw6pOT",
                "tags" : [
                   "Perl 6",
@@ -178,6 +179,7 @@
                "url" : "http://blog.urth.org/2011/12/the-perl-5156-epigraph.html"
             },
             {
+               "author" : "gabor_szabo",
                "link" : "http://bit.ly/sZskMq",
                "tags" : [
                   "Perl",
